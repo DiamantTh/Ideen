@@ -1,0 +1,89 @@
+{
+  "thema": "Veröffentlichung und Rechte von KI-generierter Musik",
+  "kontext": {
+    "plattformen": ["Suno", "SoundCloud", "DistroKid", "iMusician", "TuneCore", "Amuse", "Spotify", "Apple Music", "Bandcamp", "YouTube"],
+    "anlass": "Nutzer hat KI-generierte Musik über Suno erstellt und möchte diese auf Streamingdiensten kommerziell vertreiben. Es kam zu Ablehnungen beim Distributionsversuch."
+  },
+  "status_quo": {
+    "nutzung_suno": {
+      "modell": "Bezahlabo (z. B. Suno Pro)",
+      "lizenzrecht": "Kommerzielle Nutzung ist laut Suno-AGB gestattet, aber es wird kein formelles Lizenzdokument bereitgestellt.",
+      "nutzungsnachweis": "Nur über Screenshots und Verweis auf AGB möglich, keine automatisierte Rechteverifikation für Dritte.",
+      "auswirkung": "Distributoren akzeptieren teilweise keine Suno-Tracks mangels schriftlicher Lizenz."
+    },
+    "reaktion_der_plattformen": {
+      "soundcloud_distribution": "Ablehnung von Suno-Content trotz aktiver Lizenznutzung ohne detaillierte Begründung.",
+      "andere_distributoren": {
+        "distrokid": "Blockiert u. U. Accounts bei vermutetem AI-Content. Auszahlung verweigert.",
+        "tuneCore": "Strenge Richtlinien gegen AI-Content.",
+        "routeNote": "Teilweise selektiv. Nicht immer konsequent.",
+        "amuse": "Eher restriktiv, besonders bei KI-Vocals.",
+        "recordJet": "Unklare Haltung, potentiell risikoarm.",
+        "youtube": "Generell erlaubt, keine aktive AI-Filterung.",
+        "bandcamp": "Erlaubt, wenn keine Rechte Dritter verletzt werden."
+      }
+    },
+    "problematische_punkte": [
+      "Keine offiziellen Lizenznachweise von Suno verfügbar.",
+      "Keine Möglichkeit zur Identitätsverknüpfung mit dem Distributorkonto.",
+      "Unklare Definition von „AI-Content“.",
+      "Intransparente Prüfung und Sperrungen ohne Begründung."
+    ]
+  },
+  "perspektive_nutzer": {
+    "hintergrund": {
+      "ziel": "Musik mit Suno generieren, veröffentlichen und ggf. auch monetarisieren.",
+      "haltung": "Kritik an Doppelmoral der Plattformen. Wenn Menschen schlechten Content oder Stilbrüche machen dürfen, sollte KI das auch dürfen."
+    },
+    "beobachtungen": {
+      "remixe": "Viele Remixe haben kaum Bezug zum Original, trotzdem akzeptiert.",
+      "genrewechsel": "Bei Künstlern wie Unheilig oder Moderna wird Genre-Hopping akzeptiert, bei AI sofort kritisiert.",
+      "authentizität": "Zweifelhafte Bewertung von 'Echtheit' in Musik – AI wird anders behandelt als Menschen."
+    },
+    "rechtliche_bewertung": {
+      "unterschlagung": {
+        "beispiel": "DistroKid behält Einnahmen ein und löscht Songs ohne genaue Begründung.",
+        "einschätzung": "Nach deutschem Recht könnte das als Unterschlagung (§246 StGB) oder Vertragsbruch gewertet werden.",
+        "problem": "DistroKid agiert nach US-Recht; Rechtsdurchsetzung für deutsche Nutzer schwer."
+      }
+    },
+    "planungen": {
+      "release_modelle": [
+        "Veröffentlichung über Plattformen mit lockerer AI-Regelung (z. B. Bandcamp, itch.io)",
+        "Eventuelle Bearbeitung/Transformation der AI-Tracks, z. B. durch Overdubs",
+        "Erstellung eines Lizenzstatements auf Basis von Suno-AGB zur Vorlage bei Distributoren",
+        "Eigene Veröffentlichung mit Beleg der Suno-Lizenz per Screenshot und Textzusatz"
+      ],
+      "langfristige_zielsetzung": "Musikdistribution mit AI-Assistenz als künstlerisches Mittel etablieren, nicht als unerlaubte Abkürzung."
+    }
+  },
+  "vorschlaege_von_assistant": {
+    "rechtssichere_vorbereitung": [
+      "Erstellen eines PDF-Lizenzstatements mit Verweis auf Suno-AGB und Pro-Abo",
+      "Eintrag des eigenen Namens als Urheber/Komponist, falls Abo aktiv war",
+      "Speichern von Screenshots und Rechnungsbelegen zur Nachweisführung"
+    ],
+    "technische_hinweise": [
+      "Für Radioveröffentlichung: GEMA-Werknummer erforderlich, ISRC und Labelcode empfehlenswert",
+      "AI-Werke nur GEMA-fähig, wenn Mensch als eindeutiger Urheber gelistet ist",
+      "Radiosender benötigen vollständige Metadaten mit realen Personenangaben"
+    ],
+    "gesellschaftlicher_kontext": [
+      "Hinweis auf Doppelmoral: Menschliche Beliebigkeit bei Qualität, Genre und Remix ist akzeptiert – KI wird härter bewertet",
+      "Künstlerische Entwicklung wird bei menschlichen Künstlern gefeiert, bei KI geblockt"
+    ],
+    "mögliche_projekte": [
+      "Satirischer Track oder Text zum Thema 'Wo hört es auf?'",
+      "Blogpost über die Doppelmoral in der Musikindustrie bzgl. AI",
+      "Vergleichsplattform der AI-Akzeptanz bei Distributoren"
+    ]
+  },
+  "abschliessende_bewertung": {
+    "aktuelle_situation": "Rechtlich erlaubte kommerzielle Nutzung durch Suno-Pro-Nutzer ist faktisch schwer durchsetzbar, da Plattformen keine einheitlichen Standards haben.",
+    "handlungsbedarf": [
+      "Klarere Kommunikation seitens Suno (z. B. echte Lizenzdokumente)",
+      "Einführung von AI-kompatiblen Vertriebsmodellen",
+      "Sensibilisierung von Distributoren für faire AI-Verwertung"
+    ]
+  }
+}

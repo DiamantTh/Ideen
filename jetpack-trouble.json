@@ -1,0 +1,95 @@
+{
+  "Thema": "Jetpack-Klassifizierung als kommerzielle Website",
+  "Betroffene_Website": "wiidatabase.de",
+  "Auslöser": {
+    "Einstufung": "Kommerzielle Website durch Jetpack/WordPress.com",
+    "Begründung_von_Jetpack": [
+      "Spendenbutton auf der Website",
+      "Automatische Erkennung von Einnahmequellen als kommerziell"
+    ],
+    "Zeitpunkt_der_Einstufung": "Nach über 10 Jahren unveränderter Nutzung"
+  },
+  "Nutzerreaktion": {
+    "Gefühle": ["Frustration", "Verärgerung", "Unverständnis"],
+    "Argumentation": [
+      "Website ist nicht auf Einnahmen ausgerichtet",
+      "Keine Werbung vorhanden",
+      "Der Spendenbutton dient nur als freiwillige Danksagung",
+      "13 Jahre Betrieb ohne Gewinnabsicht",
+      "Unerwartete Umstellung der Nutzungsbedingungen"
+    ],
+    "Öffentliche_Reaktion": [
+      {
+        "Plattform": "Twitter (X)",
+        "Beiträge": [
+          "Kritik an WordPress/Automattic als geldgierig",
+          "Unterstützung durch andere Nutzer wie sneaky****85",
+          "Hervorhebung der fehlenden Kommunikation über Policy-Änderung"
+        ]
+      }
+    ]
+  },
+  "Konsequenzen": {
+    "Kosten": "22€ monatlich für bisher kostenlose Features",
+    "Einschränkungen": [
+      "Keine kostenlose Statistikanzeige mehr",
+      "Kein einfacher Zugriff auf bisherige Statistiken",
+      "Kein direkter Export lokaler Daten für andere Plugins",
+      "Abhängigkeit von proprietären Jetpack-Funktionen"
+    ],
+    "Vendor_Lockin": {
+      "Beschreibung": "Langjährige Nutzung wird durch Plattformbindung bestraft",
+      "Folgen": [
+        "Nutzer können ihre Daten nicht einfach mitnehmen",
+        "Erzwungene Migration oder Kostenpflicht bei gleichbleibender Nutzung"
+      ]
+    }
+  },
+  "Zukünftige_Planung": {
+    "Ziele": [
+      "Unabhängigkeit von Jetpack/Automattic",
+      "Selbstbestimmte Nutzung und Kontrolle über Daten",
+      "Technisch saubere und transparente Alternativen nutzen"
+    ],
+    "Mögliche_Migration": {
+      "Probleme": [
+        "Fehlender Export von Jetpack-Daten",
+        "Keine offiziellen Tools zum Umstieg",
+        "Manuelle Migration erforderlich"
+      ],
+      "Alternativen": {
+        "Statistiken": "Matomo (selbst gehostet, mit CSV/JSON Export)",
+        "Backups": "WPvivid oder UpdraftPlus (lokal speicherbar)",
+        "Kommentare/Mails": "Post SMTP + MailPoet oder andere Newsletter-Plugins"
+      },
+      "Sonstige_Tools": {
+        "Eigene_Lösungen": "Möglichkeit, eigene Skripte (z.B. in Bash/PHP) für Datenextraktion zu schreiben"
+      }
+    }
+  },
+  "Gründe_für_Wechsel": {
+    "Technisch": [
+      "Transparenz",
+      "Dateneigentum",
+      "Flexibilität bei der Pluginwahl"
+    ],
+    "Ideologisch": [
+      "Ablehnung von restriktiven Nutzungsbedingungen",
+      "Kritik an intransparenter Monetarisierungspolitik",
+      "Langfristige Nachhaltigkeit durch Open-Source-Ansätze"
+    ]
+  },
+  "Anmerkungen_Assistent": {
+    "Analyse": [
+      "Die Änderung wurde nicht klar kommuniziert",
+      "Automatische Erkennung von Spendenbuttons als 'kommerziell' ist realitätsfern",
+      "Viele Nutzungsarten (Archivseiten, Fanseiten, Hobbyprojekte) werden dadurch ungewollt benachteiligt"
+    ],
+    "Empfehlungen": [
+      "Alternativen zu Jetpack prüfen und auf lokale, freie Tools umsteigen",
+      "Exportierbarkeit und Standardformate wie JSON/CSV bevorzugen",
+      "Bei Bedarf eigene Exportskripte nutzen oder entwickeln",
+      "Weitere betroffene Nutzer finden und ggf. gemeinsames Feedback an Automattic formulieren"
+    ]
+  }
+}

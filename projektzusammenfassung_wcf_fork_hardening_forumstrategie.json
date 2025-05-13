@@ -1,0 +1,106 @@
+{
+  "projektkonzept": {
+    "ziel": "Entwicklung einer freien, modernen Forensoftware auf Basis oder als Nachfolge des WoltLab Community Frameworks (WCF)",
+    "strategie": {
+      "langfristig": true,
+      "fork_des_legacy_wcf": true,
+      "komplett_neuentwicklung_angestrebt": true
+    },
+    "lizenzmodell": {
+      "core": "AGPL (geplant), auf Basis des LGPL-lizenzierten WCF",
+      "plugin_schnittstelle": {
+        "ziel": "Plugins dauerhaft frei halten",
+        "modell": "Pflicht zu Open-Source-Lizenz für alle Plugins, die Schnittstellen nutzen",
+        "überwachung": "LICENSE-Datei prüfen, automatische und soziale Kontrolle"
+      },
+      "vermeidung_kommerzieller_plugins": {
+        "grund": "WoltLab hat sich seit WBB3 stark in Richtung Bezahl-Plugins entwickelt",
+        "maßnahmen": [
+          "Pflicht zur LICENSE-Datei in Plugins",
+          "automatische Lizenzprüfung im Backend",
+          "Community-gestützte Rüge- und Kontrollmechanismen",
+          "Blacklist-Mechanismus für Wiederholungstäter",
+          "Möglichkeit zur Meldung anonymer oder versteckter Entwickler"
+        ]
+      }
+    }
+  },
+  "technische_hintergründe": {
+    "ausgangslage": {
+      "genutzte_version": "Uralt-WCF + WBB-Version",
+      "php_kompatibilität": "Gerade noch unter PHP 7.4, inkompatibel mit PHP 8+",
+      "struktur": "Historisch gewachsen, keine modernen Patterns, schwache Typisierung"
+    },
+    "hardening": {
+      "ziel": "System absichern und kompatibel mit modernen PHP-Versionen machen",
+      "schwierigkeit": "Hoch, besonders für Entwickler ohne tiefes WCF-Verständnis",
+      "empfohlene_methoden": [
+        "PHPStan / Psalm / Rector / Sniffer",
+        "Patch-Ordnerstruktur statt Direktänderungen",
+        "SECURITY_TODO-Dokumentation",
+        "strukturierte Refactoring-Vorbereitung",
+        "optional: Namespace-Neustrukturierung"
+      ],
+      "automatisierung": {
+        "gedankenspiel": "Mit Allmacht wäre alles automatisch während des Schlafens erledigt",
+        "real": "CI/CD-gestütztes Hardening und Tooling möglich"
+      }
+    }
+  },
+  "philosophische_grundhaltung": {
+    "kritik_an_woltlab": [
+      "Kommerzialisierung sicherheitsrelevanter Features (z. B. WebAuthn)",
+      "Verlust an frei verfügbaren Erweiterungen ab WBB3/WCF2",
+      "Verhinderung langfristiger Community-Entwicklung durch Lizenzmodell"
+    ],
+    "zielsetzung": [
+      "Ein Forum, das wieder frei und community-zentriert ist",
+      "Sicherheit, Modularität und Erweiterbarkeit als Kernwerte",
+      "Plugin-Ökosystem, das nicht durch Profit korrumpiert wird"
+    ],
+    "umgang_mit_legacy_code": {
+      "haltung": "WoltLab wird wohl kaum aktiv gegen gehärtete Forks alter LGPL-Versionen vorgehen",
+      "grund": "Negative PR durch CVEs wäre möglich, daher stillschweigende Duldung wahrscheinlich"
+    }
+  },
+  "geplante_features_der_neuentwicklung": {
+    "architektur": {
+      "modular": true,
+      "plugins_trennbar": true,
+      "api_gesteuert": true,
+      "dateibasierte_konfiguration": ["TOML", "optional YAML", "keine XML"]
+    },
+    "sicherheitsfeatures": [
+      "WebAuthn",
+      "2FA",
+      "CSRF-Protection",
+      "Prepared Statements"
+    ],
+    "integration": {
+      "REST_API": true,
+      "ActivityPub_optional": true
+    },
+    "verwaltung": {
+      "Adminpanel": "vereinfacht und entkoppelt von Legacy-Menüs",
+      "Pluginstore": "nur für freie, geprüfte Erweiterungen"
+    }
+  },
+  "weiteres": {
+    "projektname": {
+      "status": "noch offen",
+      "idee": "neutrales, nicht woltlab-nahes Branding",
+      "vorschläge_folgen": true
+    },
+    "hilfeangebote": [
+      "Starter-Repository mit Hardening-Struktur",
+      "Composer-Basis mit CI und Sicherheitschecks",
+      "Support bei Lizenzformulierung für Plugin-Schnittstelle",
+      "Mitgestaltung des Plugin-Meldesystems"
+    ],
+    "abschließende_einschätzung": {
+      "potenzial": "hoch",
+      "komplexität": "mittel-hoch, aber kontrollierbar mit modularer Strategie",
+      "communitywirkung": "positiv, besonders für frustrierte Alt-WBB-Nutzer"
+    }
+  }
+}
