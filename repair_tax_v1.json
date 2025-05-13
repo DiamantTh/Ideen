@@ -1,0 +1,91 @@
+{
+  "konzept": "Reparaturpflicht und Marktsteuerung für reparaturfeindliche Geräte",
+  "autor": "Thomas",
+  "kernidee": {
+    "beschreibung": "Ein steuerliches und regulatorisches System, das Hersteller und Händler von nicht reparaturfreundlichen Geräten wirtschaftlich unter Druck setzt, während nachhaltige Geräte bevorzugt behandelt werden.",
+    "ziel": "Förderung von Modularität, Reparierbarkeit, Ersatzteilverfügbarkeit und Langzeitsoftware-Support durch steuerliche und marktregulierende Maßnahmen."
+  },
+  "begründung": {
+    "verbraucherinteresse": [
+      "Kunden können viele dieser Geräte nicht sinnvoll reparieren.",
+      "Klebestreifen und unprofessionelle Reparaturmethoden machen Reparaturen kurzlebig oder unmöglich.",
+      "Hersteller ignorieren Rückmeldungen von Kunden."
+    ],
+    "nachhaltigkeit": [
+      "Geräte ohne Ersatzteile führen zu Elektroschrott.",
+      "Modularität ermöglicht längere Nutzung und Wiederverwertung.",
+      "Produkte wie Fairphone zeigen, dass Nachhaltigkeit ohne gravierende Einbußen realisierbar ist."
+    ],
+    "marktwirkung": [
+      "Billighersteller verdrängen nachhaltige Produkte durch Dumpingpreise.",
+      "Ohne Zwang wird sich Reparaturfreundlichkeit nicht durchsetzen.",
+      "Marktbereinigung kann über Steuerdruck auf unreparierbare Geräte erfolgen."
+    ]
+  },
+  "vorgeschlagene maßnahmen": {
+    "steuerpolitik": {
+      "malus": "Zusatzsteuer auf Geräte mit schlechter Reparierbarkeit, schlechter Dokumentation oder fehlenden Ersatzteilen.",
+      "bonus": "Steuererleichterung für Geräte mit modularen Bauteilen, offen zugänglichen Reparaturanleitungen und langfristigem Software-Support.",
+      "staffelung": {
+        "gut": ["Fairphone", "Framework"],
+        "akzeptabel": ["Samsung (A-Serie)", "Xiaomi (Redmi-Serie)"],
+        "schlecht": ["Blackview", "Doogee", "Oukitel", "Cubot"]
+      }
+    },
+    "händlerpflichten": {
+      "marktplätze": "Amazon, eBay, Aliexpress u. a. sollen bei Listung reparaturfeindlicher Geräte die Zusatzsteuer tragen oder Produkte ausschließen.",
+      "weitergabe": "Marktplätze dürfen Kosten an die eigentlichen Anbieter weiterreichen, werden aber regulatorisch in die Pflicht genommen."
+    },
+    "gesetzliche pflichten": {
+      "modularitätspflicht": "Display, Ladeport, Akku, Kamera etc. müssen einzeln tauschbar sein.",
+      "offenlegungspflicht": "BoM (Stücklisten) und Reparaturanleitungen müssen öffentlich einsehbar sein.",
+      "updategarantie": "Mindestens 5 Jahre Sicherheitsupdates für alle Geräte.",
+      "transparenz": "Herstellerlobbyverbände müssen vollständig offenlegen, wer gegen Reparaturgesetze lobbyiert."
+    }
+  },
+  "reaktionen_erwartet": {
+    "lautstarke gegner": [
+      "Apple", "Microsoft (Surface)", "Sony", "Xiaomi", "BBK-Gruppe (Oppo, OnePlus, Realme)", "Billighersteller"
+    ],
+    "mögliche befürworter": [
+      "Fairphone", "Framework", "Gigaset (teilweise)", "eventuell Google"
+    ],
+    "argumente der gegner": [
+      "Designfreiheit",
+      "Kostensteigerung",
+      "Sicherheitsbedenken",
+      "Innovationseinschränkung"
+    ],
+    "gegenargument": "Die tatsächlichen Kosten könnten gleich bleiben, wenn Hersteller weniger in Marketing und mehr in nachhaltige Bauweise investieren würden."
+  },
+  "technische hintergründe": {
+    "klebstoffe": {
+      "klebestreifen": "Zu schwach, keine Vibrationsdämpfung, kein Staub-/Wasserschutz.",
+      "sekundenkleber": "Zu hart und spröde, keine Stoßdämpfung, riskante Dämpfe.",
+      "silikonkleber": "Geeignet, aber lange Aushärtezeit notwendig; ideal für dauerhafte Reparatur."
+    },
+    "reparaturdesign": {
+      "reparaturfeindlich": "Kleben statt schrauben, keine Teiletrennung, keine Ersatzteilversorgung.",
+      "reparaturfreundlich": "Schraubsysteme, modulare Komponenten, klare Anleitungen."
+    }
+  },
+  "kommunikation und öffentlichkeit": {
+    "transparenzstrategie": [
+      "Veröffentlichung von Lobbyverbänden, Teilnehmerlisten, Firmen und Personen, die gegen Reparaturgesetzgebung arbeiten.",
+      "Presseberichterstattung über Lobbydruck soll Unternehmen empfindlich treffen."
+    ],
+    "slogans": [
+      "Reparierbare Geräte für alle – nicht nur für Idealisten.",
+      "Wenn Ersatzteile nur mit Klebestreifen kommen, ist das kein Ersatz – das ist ein Wegwerfprodukt.",
+      "Dein Akku gehört dir – nicht dem Hersteller.",
+      "Nachhaltigkeit muss nicht teurer sein – nur ehrlicher."
+    ]
+  },
+  "ausblick und zukunftspläne": {
+    "svz-integration": true,
+    "ziel": "Diese Ideen sollen in die rechtliche Struktur der geplanten Sonderverwaltungszone integriert werden.",
+    "mögliches eu-modell": true,
+    "zielbeschreibung": "Ein EU-weites Modell für Reparaturförderung durch steuerliche Lenkung und Marktregulierung, mit starker Transparenzpflicht und Konsumentenschutz."
+  }
+}
+
