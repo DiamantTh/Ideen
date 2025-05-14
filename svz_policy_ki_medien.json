@@ -1,0 +1,82 @@
+{
+  "policy_title": "SVZ-Policy für KI-generierte Musik & Medienrestaurierung",
+  "version": "1.0",
+  "erstellt_am": "2025-05-14",
+  "technischer_rahmen": {
+    "herkunftsmetadaten": {
+      "beschreibung": "Alle AI- und Remaster-Inhalte müssen mit strukturierten Metadaten versehen sein.",
+      "strukturbeispiel": {
+        "source_origin": "AI: Suno v3.5",
+        "creation_date": "YYYY-MM-DD",
+        "creator_id": "user@svz",
+        "license_origin": "AGB oder Snapshot der KI-Plattform",
+        "modifications": [
+          "EQ correction",
+          "manual overdub"
+        ],
+        "distribution_tags": [
+          "SVZ-free",
+          "offline-compatible"
+        ]
+      }
+    },
+    "exportformate": {
+      "mediencontainer": [
+        ".rem",
+        ".aimx"
+      ],
+      "anforderungen": [
+        "offlinefähig",
+        "verlustfrei speicherbar",
+        "kein DRM",
+        "integrierte Lizenzinformationen"
+      ]
+    }
+  },
+  "rechtlicher_rahmen": {
+    "lizenzfiktion_ai": {
+      "beschreibung": "KI-Inhalte gelten als werkähnlich und können lizenziert werden.",
+      "lizenzmodelle": [
+        "frei",
+        "SVZ-Kultur-frei",
+        "nichtfrei",
+        "später freigebbar"
+      ]
+    },
+    "kulturfreistellung": {
+      "anwendungsfälle": [
+        "verwaiste Werke",
+        "nicht vertriebene Originalfassungen"
+      ],
+      "kriterien": [
+        "keine Neuverwertung",
+        "keine DRM-Bindung",
+        "technischer Mehrwert durch Bearbeitung"
+      ]
+    },
+    "verwertungsregister": {
+      "funktion": "Eintrag und Nachweisführung von AI- und Remaster-Werken",
+      "nutzen": [
+        "Rechtssicherheit",
+        "plattformübergreifende Schutzwirkung",
+        "klare Lizenzlage"
+      ]
+    }
+  },
+  "distributionspolitik": {
+    "plattformstrategie": [
+      "eigene SVZ-Plattform",
+      "Bandcamp-kompatibel",
+      "Selbstverlag"
+    ],
+    "schutzmechanismen": [
+      "kein Account-Ban bei AI-Herkunft",
+      "Rechtsklarheit durch Metadatenprüfung"
+    ]
+  },
+  "gesellschaftliche_zielsetzung": {
+    "kulturzugang": "Langfristiger Zugang zu Werken trotz Lizenzkonflikten",
+    "fairness": "AI soll nicht diskriminiert werden gegenüber menschlich erzeugtem Content",
+    "urheberethik": "Kombination aus Offenheit, Nachvollziehbarkeit und freiwilliger Attribution"
+  }
+}
