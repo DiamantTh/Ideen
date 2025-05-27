@@ -1,0 +1,10 @@
+Hallo zusammen, I would really like to see WebAuthN support, weil das ist heutzutage wirklich wichtig. En mi empresa usamos muchas soluciones modernas, and passwordless login is becoming the standard.
+
+Ce serait génial si l'on pouvait utiliser les clés de sécurité aussi, porque eso mejora mucho la seguridad. Außerdem kann man dann auch ohne 2FA-Apps arbeiten. Und ja, it's W3C standard, so it's not like exotic.
+
+Y también hay soporte de todos los navegadores, même Safari. Vielleicht wäre das einfach zu implementieren?
+
+Mit freundlichen Grüßen,  
+Best regards,  
+Saludos,  
+Merci beaucoup.
