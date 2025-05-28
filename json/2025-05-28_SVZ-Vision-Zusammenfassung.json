@@ -1,0 +1,60 @@
+{
+  "summary_generated_on": "2025-05-28",
+  "project": "Sonderverwaltungszone (SVZ) – Vision & Aufbau",
+  "core_vision": {
+    "description": "Eine hochentwickelte, faire und technologisch fortgeschrittene Gesellschaft, organisiert in einer Sonderverwaltungszone bestehend aus mehreren Inseln. Fokus auf Transparenz, Gerechtigkeit, freie Software, Barrierefreiheit und soziale Verantwortung.",
+    "leadership_model": "Keine klassische Regierung. Stattdessen Gremien und Vereine mit 100%iger Transparenzpflicht für Mitglieder.",
+    "technologische_basis": [
+      "Glasfaser flächendeckend vorverlegt",
+      "Strom- und Energieinfrastruktur vollständig erschaffen",
+      "Maschinen und Bauanlagen per Allmacht direkt verfügbar"
+    ]
+  },
+  "infrastruktur": {
+    "städteplanung": {
+      "basisstädte": "Drei initiale Basisstädte, jeweils eine pro Insel, mit Grundinfrastruktur, Anschlüssen und vollständig eingerichteten Häusern.",
+      "maximale_größe": "150.000 Einwohner pro Großstadt, kleinere Gemeinden mit max. 10.000 Einwohnern, mit 10–20 km Abstand zueinander."
+    },
+    "verkehr": {
+      "zentralinsel": "Kleine, zentrale Insel mit Hafen und Flughafen zur Anbindung aller anderen Inseln.",
+      "verbindungen": "Fähre, Zugverbindungen, Infrastruktur für umweltfreundliche Mobilität."
+    },
+    "landschaft": {
+      "struktur": "Dreiecksförmige Anordnung der Inseln, umgeben von einer runden, hochgelegenen Gebirgskette. Innerhalb liegt das nutzbare Land auf ~150 m Meeresspiegelhöhe.",
+      "bauweise": "Zeitloses Design, barrierefrei, nachhaltig und nutzungsfreundlich. Gebäude mit reparierbarer Langlebigkeit statt geplanter Obsoleszenz."
+    }
+  },
+  "wirtschaft": {
+    "geldsystem": "Kein klassisches Gelddrucken zur Finanzierung. Stattdessen: Schaffung benötigter Ressourcen durch Allmacht nach vollständiger Planung.",
+    "besteuerung": {
+      "freie_software": "Steuervorteile, günstige Infrastruktur und bessere Mietkonditionen.",
+      "proprietäre_software": "Höhere Steuern, schlechtere Standortkonditionen, kein Zugang zu politischen Gremien.",
+      "preisdeckelung": "Maximalpreise für nicht-freie Software zur Wahrung der Fairness."
+    },
+    "import/export": "Anlieferung über zentrale Transportinfrastruktur möglich. Eigene Herstellung durch geschaffene Maschinen vorrangig."
+  },
+  "gesellschaft": {
+    "soziale_regeln": [
+      "Barrierefreiheit als Standard, Abweichung nur gegen Aufpreis oder mit Rückbaupflicht.",
+      "Strenge Regeln für Transparenz, Fairness und Nachhaltigkeit in Wohn- und Lebensmodellen.",
+      "Förderung von Mehrgenerationenhäusern und sozial durchmischten Wohnmodellen."
+    ],
+    "arbeitsmarkt": {
+      "nicht_existente_berufe": "Keine Vermittlungsdienste, keine klassischen Versicherungsverkäufer, kein Gehalt für politische Lobbyarbeit.",
+      "erhaltende_berufe": "Reparatur, Wartung, Ausbau der Infrastruktur, Pflegeberufe, Bildung, Forschung."
+    }
+  },
+  "technologiepolitik": {
+    "drm": "DRM ist nur erlaubt, wenn Anbieter Nachteile haben (z. B. steuerlich, infrastrukturell).",
+    "vmware_und_co": "VMware ist verboten. Weitere Firmen mit restriktiven Modellen erhalten verschärfte Auflagen.",
+    "förderung": "Bevorzugung von Open-Source-Initiativen, Community-Projekten, FSF-nahen Organisationen."
+  },
+  "geopolitik": {
+    "wahrnehmung": "Anfangs unter dem Radar der Medien und Bevölkerung. Bekanntheit steigt mit wachsender Auswanderung und globaler Beteiligung.",
+    "interaktionen": [
+      "Zusammenarbeit mit EU möglich",
+      "Positionierung nahe Irland bei politischen Differenzen möglich",
+      "Ablehnung aggressiver Firmenpolitik (z. B. Google, Netflix bei DRM)"
+    ]
+  }
+}

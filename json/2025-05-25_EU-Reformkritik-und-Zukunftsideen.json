@@ -1,0 +1,50 @@
+{
+    "datum": "2025-05-28",
+    "titel": "EU-Kritik und Reformbedarf – Technologische Souveränität, Steuerdumping und institutionelle Blockaden",
+    "kategorien": {
+        "kritik_an_der_eu": {
+            "technologische_abhaengigkeit": {
+                "beschreibung": "Die EU ist in zentralen Bereichen (z. B. Cloud, Chips, Software-Infrastruktur) massiv von US- und asiatischen Anbietern abhängig. Trotz Ankündigungen (z. B. EU Chips Act, Gaia-X) fehlt es an konsequenter Umsetzung, technischer Eigenständigkeit und mutiger Förderung europäischer Alternativen."
+            },
+            "fehlende_strategische_unabhaengigkeit": {
+                "beschreibung": "Die EU verharrt in politischer Abhängigkeit von den USA. In wirtschaftlichen und technologischen Fragen wird kaum Eigenständigkeit durchgesetzt, obwohl es der Gründungsidee widerspricht. Die EU müsste eigentlich als Gegengewicht zu globalen Machtblöcken auftreten."
+            },
+            "ineffizienz_und_untätigkeit": {
+                "beschreibung": "Viele Bürger haben das Gefühl, dass die EU nur symbolisch handelt. Politische Prozesse dauern zu lange, wichtige Konflikte (Migration, Klima, Steuerflucht) bleiben ungelöst oder werden durch interne Vetos blockiert."
+            }
+        },
+        "steuerdumping_und_mitgliedsstaaten": {
+            "steueroasen_in_der_eu": {
+                "länder": [
+                    "Irland",
+                    "Luxemburg",
+                    "Niederlande",
+                    "Zypern",
+                    "Malta",
+                    "Estland",
+                    "Ungarn"
+                ],
+                "beschreibung": "Diese Länder profitieren davon, US-Konzerne mit Niedrigsteuern anzuziehen. Das schadet anderen Mitgliedstaaten massiv und führt zu unfairer Lastenverteilung. Versuche, einheitliche Regeln einzuführen (z. B. Mindeststeuer, Steuertransparenz) werden regelmäßig blockiert."
+            },
+            "fehlende_regulatorische_mechanismen": {
+                "beschreibung": "Die EU-Verträge bieten keine effektiven Mittel, um Staaten mit schädlichem Steuerverhalten zu sanktionieren. Es fehlen finanzielle Anreize oder Strafen, wodurch Steueroasen ungehindert agieren können."
+            }
+        },
+        "institutionelle_strukturprobleme": {
+            "einstimmigkeitsprinzip": {
+                "beschreibung": "In vielen Bereichen – besonders bei Steuerfragen – braucht es Einstimmigkeit. Das macht die EU erpressbar durch einzelne Mitgliedstaaten und verhindert dringend nötige Reformen."
+            },
+            "fehlende_exit_struktur": {
+                "beschreibung": "Die EU hat keine strukturierte Option zur demokratischen Selbstauflösung oder Neugründung. Eine solche Klausel wäre sinnvoll, um bei systemischem Versagen einen Neustart zu ermöglichen."
+            }
+        },
+        "vorschlaege_fuer_die_zukunft": {
+            "reform_und_neuausrichtung": {
+                "beschreibung": "Die EU muss sich radikal neu aufstellen: technologisch unabhängig, steuerlich fair und institutionell demokratischer. Dazu gehören unter anderem eine europäische Technologieförderung, ein Mindeststeuersatz, ein Ende des Einstimmigkeitsprinzips und ein digital souveränes Binnenmodell."
+            },
+            "neugründung_oder_reset": {
+                "beschreibung": "Falls Reformen scheitern, sollte eine strukturierte Auflösung oder Neugründung möglich sein – unter Einbeziehung der Bürger und mit dem Ziel, eine demokratischere, gerechtere Union aufzubauen."
+            }
+        }
+    }
+}

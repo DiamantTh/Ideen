@@ -1,0 +1,47 @@
+{
+  "meta": {
+    "title": "Multilinguale Kommunikation in Feature-Requests und Open-Source-Projekten",
+    "date": "2025-05-28",
+    "context": "Diskussion über mehrsprachige Feature-Requests, Formalität vs. Lockerheit in Open-Source-Issues, und typische Entwicklerreaktionen auf gemischte oder formelle Sprache."
+  },
+  "ideen_und_konzepte": {
+    "mehrsprachige_feature_requests": {
+      "beschreibung": "Untersuchung, wie Entwickler auf Issues reagieren, die in mehreren Sprachen geschrieben sind.",
+      "beobachtungen": [
+        "Issues in zu vielen Sprachen wirken überladen oder verwirrend.",
+        "Kurze Hinweise auf alternative Sprachversionen sind besser als ein Fließtext in mehreren Sprachen.",
+        "Sprachlich chaotische Texte führen oft zu Schmunzeln oder Verwirrung, besonders wenn Entwickler verschiedene Sprachen nur teilweise verstehen."
+      ],
+      "empfohlene_vorgehensweise": [
+        "Haupttext in Englisch verfassen.",
+        "Optionale Kommentare in anderen Sprachen via Markdown-Kommentare oder externen Verweis.",
+        "Humoristische Mehrsprachigkeit ist als Gag möglich, aber nicht für ernsthafte Anfragen."
+      ]
+    },
+    "formelle_vs_lockere_sprache": {
+      "beschreibung": "Vergleich von Juristensprache, Behördendeutsch und der lockeren Sprache in Open Source.",
+      "erkenntnisse": [
+        "Juristensprache wird als übertrieben und hinderlich wahrgenommen.",
+        "Open-Source-Communities bevorzugen präzise, freundliche, aber lockere Formulierungen.",
+        "In englischsprachigen Projekten ist 'plain English' Standard – nicht Legalese."
+      ]
+    }
+  },
+  "reaktionen_und_kontext": {
+    "entwicklerreaktionen": {
+      "reaktionstypen": [
+        "Der Locker-Gutgelaunte lacht über die Mischung.",
+        "Der Pragmatiker fragt nach einer Zusammenfassung.",
+        "Der Sprachbegabte hilft beim Übersetzen.",
+        "Das Team speichert den Issue als Meme im internen Chat."
+      ]
+    },
+    "empfohlene_struktur_fuer_issues": {
+      "struktur": [
+        "Kurzer Titel mit klarem Zweck.",
+        "Englischer Haupttext mit optionaler Referenz auf Übersetzungen.",
+        "Externe Quellen als englische Links, optional mit Übersetzungsangebot."
+      ]
+    }
+  }
+}
