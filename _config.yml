@@ -1,0 +1,12 @@
+title: Ideen – Visionen und Analysen
+description: Ein strukturiertes Archiv für Ideen, Analysen und Zukunftsvisionen zu Technik, Gesellschaft, Ethik und Open Source
+theme: jekyll-theme-cayman
+markdown: kramdown
+
+# Navigation
+show_downloads: false
+github:
+  repository_url: https://github.com/DiamantTh/Ideen
+
+# Language
+lang: de
