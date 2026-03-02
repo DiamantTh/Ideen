@@ -53,6 +53,9 @@ Gedanken zu effektiver, mehrsprachiger Kommunikation in Open-Source-Projekten un
 ### [Ethik, Technik und Selbstwahrnehmung](ethik-und-charakter.html)
 Die philosophischen und persönlichen Hintergründe: Warum diese Ideen so detailliert, so konsequent und so "streng" sind.
 
+### [Weitere Themen](weitere-themen.html)
+Zusätzliche Ideen und Gedankenexperimente: Bildung und globaler Wandel, Minecraft-Moderation, und experimentelle Inhalte.
+
 ## Hinweise zur Nutzung
 
 - Die Dokumente sind **work-in-progress** und spiegeln nicht zwingend finale Positionen wider
