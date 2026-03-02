@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/DiamantTh/Ideen#readme",
   "dependencies": {
-    "@fontsource/open-sans": "^5.2.7"
+    "@fontsource/nunito": "^5.2.7"
   }
 }
