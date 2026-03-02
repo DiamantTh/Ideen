@@ -5,7 +5,7 @@ title: Kommunikation in Open Source
 
 # Kommunikation im Open-Source-Kontext
 
-[← Zurück zur Startseite](index.html)
+[← Zurück zur Startseite](index.md)
 
 ## Das Kommunikations-Paradox
 
@@ -283,4 +283,4 @@ heutzutage wirklich wichtig. En mi empresa usamos muchas soluciones modernas...
 
 ---
 
-[← Zurück zur Startseite](index.html) | [GitHub Repository](https://github.com/DiamantTh/Ideen)
+[← Zurück zur Startseite](index.md) | [GitHub Repository](https://github.com/DiamantTh/Ideen)

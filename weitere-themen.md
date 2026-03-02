@@ -5,7 +5,7 @@ title: Weitere Themen
 
 # Weitere Themen und Ideen
 
-[← Zurück zur Startseite](index.html)
+[← Zurück zur Startseite](index.md)
 
 Diese Seite gibt einen Überblick über zusätzliche Themen, die im Repository dokumentiert sind, aber aufgrund ihrer Spezifität oder experimentellen Natur nicht als vollständige Seiten ausgearbeitet wurden.
 
@@ -145,7 +145,7 @@ the standard...
 **Der Zweck:**
 - Demonstrieren, wie **nicht** zu kommunizieren ist
 - Humorvolle Übertreibung eines realen Problems
-- Teil der Diskussion über Open-Source-Kommunikation (siehe [Kommunikationsseite](kommunikation.html))
+- Teil der Diskussion über Open-Source-Kommunikation (siehe [Kommunikationsseite](kommunikation.md))
 
 ---
 
@@ -197,4 +197,4 @@ Diese "Nebenthemen" zeigen die **Bandbreite des Denkens**:
 - Praktische Anwendbarkeit
 - Offenheit für Kritik
 
-[← Zurück zur Startseite](index.html) | [GitHub Repository](https://github.com/DiamantTh/Ideen)
+[← Zurück zur Startseite](index.md) | [GitHub Repository](https://github.com/DiamantTh/Ideen)

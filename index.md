@@ -35,25 +35,25 @@ Die "Strenge" ist kein Selbstzweck, sondern eine bewusste Methode, um Tiefe und 
 
 ## Hauptthemen
 
-### [Sonderverwaltungszone (SVZ) – Vision einer alternativen Gesellschaft](svz-vision.html)
+### [Sonderverwaltungszone (SVZ) – Vision einer alternativen Gesellschaft](svz-vision.md)
 Eine umfassende Vision für eine technologisch fortgeschrittene, faire Gesellschaft mit Fokus auf Open Source, Transparenz und soziale Gerechtigkeit.
 
-### [EU-Kritik und Reformideen](eu-reform.html)
+### [EU-Kritik und Reformideen](eu-reform.md)
 Analyse der strukturellen Probleme der Europäischen Union: technologische Abhängigkeit, Steuerdumping und institutionelle Blockaden – mit konkreten Reformvorschlägen.
 
-### [Open-Tech Governance Modell](open-tech.html)
+### [Open-Tech Governance Modell](open-tech.md)
 Konzept einer supranationalen Zone für technologische Freiheit, freie Software und offene Gesellschaftsstrukturen.
 
-### [Kommunikation im Open-Source-Kontext](kommunikation.html)
+### [Kommunikation im Open-Source-Kontext](kommunikation.md)
 Gedanken zu effektiver, mehrsprachiger Kommunikation in Open-Source-Projekten und der Balance zwischen Formalität und Lockerheit.
 
-### [Hardware-Freiheit und technologische Souveränität](hardware-freiheit.html)
+### [Hardware-Freiheit und technologische Souveränität](hardware-freiheit.md)
 Überlegungen zur Öffnung von GPU- und CPU-Plattformen und der Notwendigkeit technologischer Unabhängigkeit.
 
-### [Ethik, Technik und Selbstwahrnehmung](ethik-und-charakter.html)
+### [Ethik, Technik und Selbstwahrnehmung](ethik-und-charakter.md)
 Die philosophischen und persönlichen Hintergründe: Warum diese Ideen so detailliert, so konsequent und so "streng" sind.
 
-### [Weitere Themen](weitere-themen.html)
+### [Weitere Themen](weitere-themen.md)
 Zusätzliche Ideen und Gedankenexperimente: Bildung und globaler Wandel, Minecraft-Moderation, und experimentelle Inhalte.
 
 ## Hinweise zur Nutzung

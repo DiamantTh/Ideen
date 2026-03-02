@@ -5,7 +5,7 @@ title: Ethik und Charakter
 
 # Ethik, Technik und Selbstwahrnehmung
 
-[← Zurück zur Startseite](index.html)
+[← Zurück zur Startseite](index.md)
 
 ## Die Frage nach dem "Warum"
 
@@ -276,4 +276,4 @@ Das ist kein Perfektionismus. Das ist **Handwerks-Ethik, angewandt auf Ideen**.
 
 ---
 
-[← Zurück zur Startseite](index.html) | [GitHub Repository](https://github.com/DiamantTh/Ideen)
+[← Zurück zur Startseite](index.md) | [GitHub Repository](https://github.com/DiamantTh/Ideen)

@@ -5,7 +5,7 @@ title: Open-Tech Governance
 
 # Open-Tech Governance Modell
 
-[← Zurück zur Startseite](index.html)
+[← Zurück zur Startseite](index.md)
 
 ## Vision einer supranationalen Zone für technologische Freiheit
 
@@ -274,4 +274,4 @@ Eine Welt, in der:
 
 ---
 
-[← Zurück zur Startseite](index.html) | [GitHub Repository](https://github.com/DiamantTh/Ideen)
+[← Zurück zur Startseite](index.md) | [GitHub Repository](https://github.com/DiamantTh/Ideen)

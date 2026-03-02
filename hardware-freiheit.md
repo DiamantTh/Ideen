@@ -5,7 +5,7 @@ title: Hardware-Freiheit
 
 # Hardware-Freiheit und technologische Souveränität
 
-[← Zurück zur Startseite](index.html)
+[← Zurück zur Startseite](index.md)
 
 ## Das Problem der Hardware-Monopole
 
@@ -323,4 +323,4 @@ Ja – wenn genug Menschen dafür kämpfen.
 
 ---
 
-[← Zurück zur Startseite](index.html) | [GitHub Repository](https://github.com/DiamantTh/Ideen)
+[← Zurück zur Startseite](index.md) | [GitHub Repository](https://github.com/DiamantTh/Ideen)

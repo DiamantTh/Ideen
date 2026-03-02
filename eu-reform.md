@@ -5,7 +5,7 @@ title: EU-Reform
 
 # EU-Kritik und Reformideen
 
-[← Zurück zur Startseite](index.html)
+[← Zurück zur Startseite](index.md)
 
 ## Die Situation
 
@@ -202,4 +202,4 @@ Aber: **Warten macht es nur schlimmer.**
 
 ---
 
-[← Zurück zur Startseite](index.html) | [GitHub Repository](https://github.com/DiamantTh/Ideen)
+[← Zurück zur Startseite](index.md) | [GitHub Repository](https://github.com/DiamantTh/Ideen)
