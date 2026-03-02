@@ -49,19 +49,28 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   });
 
-  // Parallax-Effekt für Header
+  // Parallax-Effekt für Header mit Performance-Optimierung
   var lastScrollTop = 0;
+  var ticking = false;
+  
   window.addEventListener('scroll', function() {
-    var header = document.querySelector('.page-header');
-    if (header) {
-      var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-      var scrollDelta = scrollTop - lastScrollTop;
-      var currentTransform = header.style.transform || 'translateY(0px)';
-      var currentY = parseFloat(currentTransform.replace(/[^0-9.-]/g, '') || '0');
-      var newY = currentY - (scrollDelta * 0.5);
-      
-      header.style.transform = 'translateY(' + newY + 'px)';
-      lastScrollTop = scrollTop;
+    if (!ticking) {
+      window.requestAnimationFrame(function() {
+        var header = document.querySelector('.page-header');
+        if (header) {
+          var scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+          var scrollDelta = scrollTop - lastScrollTop;
+          var currentTransform = header.style.transform || 'translateY(0px)';
+          var match = currentTransform.match(/translateY\(([0-9.-]+)px\)/);
+          var currentY = match ? parseFloat(match[1]) : 0;
+          var newY = currentY - (scrollDelta * 0.5);
+          
+          header.style.transform = 'translateY(' + newY + 'px)';
+          lastScrollTop = scrollTop;
+        }
+        ticking = false;
+      });
+      ticking = true;
     }
   });
 
@@ -155,13 +164,20 @@ document.addEventListener('DOMContentLoaded', function() {
 
   document.body.appendChild(scrollToTopBtn);
 
+  var scrollTicking = false;
   window.addEventListener('scroll', function() {
-    if (window.pageYOffset > 300) {
-      scrollToTopBtn.style.opacity = '1';
-      scrollToTopBtn.style.transform = 'scale(1)';
-    } else {
-      scrollToTopBtn.style.opacity = '0';
-      scrollToTopBtn.style.transform = 'scale(0.8)';
+    if (!scrollTicking) {
+      window.requestAnimationFrame(function() {
+        if (window.pageYOffset > 300) {
+          scrollToTopBtn.style.opacity = '1';
+          scrollToTopBtn.style.transform = 'scale(1)';
+        } else {
+          scrollToTopBtn.style.opacity = '0';
+          scrollToTopBtn.style.transform = 'scale(0.8)';
+        }
+        scrollTicking = false;
+      });
+      scrollTicking = true;
     }
   });
 
@@ -189,10 +205,10 @@ document.addEventListener('DOMContentLoaded', function() {
     
     if (pixelRatio > 1.5) {
       // High-DPI Display (Retina, etc.)
-      body.style.setProperty('--text-rendering', 'optimizeLegibility');
+      body.style.textRendering = 'optimizeLegibility';
     } else {
       // Standard Display
-      body.style.setProperty('--text-rendering', 'optimizeSpeed');
+      body.style.textRendering = 'optimizeSpeed';
     }
   }
 
@@ -215,7 +231,7 @@ style.textContent =
   '.ripple {' +
   '  position: absolute;' +
   '  border-radius: 50%;' +
-  '  background: rgba(255, 255, 255, 0.6);' +
+  '  background: rgba(0, 0, 0, 0.2);' +
   '  pointer-events: none;' +
   '  transform: scale(0);' +
   '  animation: ripple-animation 0.6s ease-out;' +
