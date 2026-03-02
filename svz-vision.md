@@ -5,7 +5,7 @@ title: SVZ Vision
 
 # Sonderverwaltungszone (SVZ) – Vision einer alternativen Gesellschaft
 
-[← Zurück zur Startseite](index.html)
+[← Zurück zur Startseite](index.md)
 
 ## Übersicht
 
@@ -154,4 +154,4 @@ Das ist die falsche Frage. Die richtige Frage ist: **Ist es gesellschaftlich wü
 
 ---
 
-[← Zurück zur Startseite](index.html) | [GitHub Repository](https://github.com/DiamantTh/Ideen)
+[← Zurück zur Startseite](index.md) | [GitHub Repository](https://github.com/DiamantTh/Ideen)
