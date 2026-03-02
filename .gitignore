@@ -1,0 +1,14 @@
+# Node modules (used for font dependencies)
+node_modules/
+
+# Package lock file
+package-lock.json
+
+# Jekyll build
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# OS files
+.DS_Store
+Thumbs.db
