@@ -50,6 +50,9 @@ Gedanken zu effektiver, mehrsprachiger Kommunikation in Open-Source-Projekten un
 ### [Hardware-Freiheit und technologische Souveränität](hardware-freiheit.html)
 Überlegungen zur Öffnung von GPU- und CPU-Plattformen und der Notwendigkeit technologischer Unabhängigkeit.
 
+### [Ethik, Technik und Selbstwahrnehmung](ethik-und-charakter.html)
+Die philosophischen und persönlichen Hintergründe: Warum diese Ideen so detailliert, so konsequent und so "streng" sind.
+
 ## Hinweise zur Nutzung
 
 - Die Dokumente sind **work-in-progress** und spiegeln nicht zwingend finale Positionen wider
