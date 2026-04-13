@@ -1,32 +1,11 @@
-# Ideen – Visionen, Analysen und Strategien
+# Ideen
 
-In diesem Repository sammle ich strukturierte, maschinenlesbare JSON-Dateien mit Konzepten, Analysen, Zukunftsvisionen und Strategien zu den Themen Technik, Gesellschaft, Ethik, Open Source und Governance.
-
-## Zweck
-
-Das Repository dient als persönlicher Thinktank und Archiv für:
-- Gesellschafts- und Reformideen
-- Open-Tech- und Open-Source-Strategien
-- Politische und rechtliche Modelle
-- Analysen zu Hardware, Software und digitalen Ökosystemen
-- Überlegungen zu Bildung, Ethik und digitalen Strukturen
+Persönlicher Thinktank – Ideen, Analysen und Zukunftsvisionen zu Technik, Gesellschaft, Ethik und Open Source.
 
 ## Struktur
 
-- **json/**  
-  Enthält alle aktuellen, thematisch geordneten JSON-Dokumente.
-
-- **texts/**  
-  Enthält einzelne Textdateien mit Experimenten, Protokollen oder spontanen Ideen.
-
-## Hinweise
-
-- Die Dokumente sind überwiegend maschinenlesbar (JSON) aufgebaut und können automatisiert verarbeitet werden.
-- Viele Inhalte sind work-in-progress oder bewusst als Diskussionsgrundlage gedacht und spiegeln nicht zwangsläufig eine finale Haltung wider.
-- Konstruktives Feedback und inhaltlicher Austausch sind ausdrücklich willkommen.
+- **`ideen/`** – Alle Ideen, Erklärungen und Konzepte (JSON, MD, Texte)
 
 ---
-
-> Dieses Repository dient nicht der klassischen Software-Entwicklung, sondern der strukturierten Ideenfindung, Analyse und Dokumentation.
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
