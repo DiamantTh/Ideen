@@ -1,0 +1,24 @@
+{
+  "name": "ideen",
+  "version": "1.0.0",
+  "description": "In diesem Repository sammle ich strukturierte, maschinenlesbare JSON-Dateien mit Konzepten, Analysen, Zukunftsvisionen und Strategien zu den Themen Technik, Gesellschaft, Ethik, Open Source und Governance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiamantTh/Ideen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/DiamantTh/Ideen/issues"
+  },
+  "homepage": "https://github.com/DiamantTh/Ideen#readme",
+  "dependencies": {
+    "@fontsource/nunito": "^5.2.7"
+  }
+}
