@@ -1,43 +1,26 @@
 ---
 layout: default
 title: Fiktion, Anime, Weltbau und Erzählungen
+description: Persönliche Notizen zu Geschichten, Figuren und erzählerischen Motiven
 ---
 
 [← Zurück zur Startseite](index.md)
 
 # Fiktion, Anime, Weltbau und Erzählungen
 
-Diese Datei bündelt fiktionale, animebezogene und weltbauliche Inhalte des Bestands als eigenständige Themenfassung. Sie zeigt, dass Erzählungen, Magiesysteme und Figurenbilder nicht isoliert stehen, sondern häufig als Denkraum für reale ethische, politische und kulturelle Fragen dienen.
+## Kurz gesagt
 
-## Einordnung und Kontext
+Hier landen nur Geschichten, Figuren und Motive, die bei mir wirklich etwas auslösen. Ich will nicht alles sammeln, sondern das festhalten, was emotional, moralisch oder erzählerisch nachwirkt.
 
-Diese Datei bündelt fiktionale, animebezogene und weltbauliche Inhalte des Bestands als eigenständige Themenfassung. Sie zeigt, dass Erzählungen, Magiesysteme und Figurenbilder nicht isoliert stehen, sondern häufig als Denkraum für reale ethische, politische und kulturelle Fragen dienen.
+## Im Fokus
 
-## Meine Gedanken
+- Figuren mit glaubwürdigen inneren Konflikten
+- Weltbau mit eigener Logik statt bloßer Kulisse
+- Motive, die über reine Unterhaltung hinausgehen
 
-Die leitende Perspektive nutzt Fiktion nicht nur zur Unterhaltung, sondern zur Verdichtung von Verantwortung, Reue, Macht, Weltordnung und menschlicher Motivation. Viele Motive werden deshalb so behandelt, dass sie über ihre erzählerische Form hinaus in reale Fragen von Gerechtigkeit, Ordnung und Beziehung hineinreichen.
+## Warum die Seite so kurz bleibt
 
-## Ideen
-
-Die Ideen reichen von Weltbau, Magiesystemen und Erzählmustern über Charaktervergleiche bis hin zu der Frage, wie fiktive Strukturen politische, moralische oder technische Gedankenmodelle tragen können. Dadurch wird Fiktion zu einem produktiven Reflexionsraum.
-
-## Interessante Punkte
-
-Auffällig ist, wie oft fiktionale Szenarien als präzise Denkwerkzeuge verwendet werden. Statt bloßer Fanbeobachtung entsteht immer wieder eine Verbindung aus Erzählanalyse, Weltdesign und normativer Prüfung von Handlungen, Macht und Konsequenz.
-
-## Moegliche Umsetzungen
-
-Mögliche Umsetzungen liegen vor allem in weiterem Weltbau, ausformulierten Erzählstrukturen, stärker dokumentierten Figurenmotiven und der bewussten Übertragung fiktionaler Modelle auf reale Debatten. Die Datei eignet sich damit auch als Arbeitsgrundlage für spätere Schreib- und Konzeptarbeit.
-
-## Zukunftsplanungen
-
-Für die Zukunft deutet das Material auf weiter ausgearbeitete Geschichten, konsistentere Welten und eine noch stärkere Verbindung von Fiktion und Reflexion hin. Die Datei hält diese Richtung als eigenständige Themenfassung fest.
-
-## Einzelne Themen
-
-- [Anime, Serien und Figuren](fiktion-anime-weltbau-und-erzaehlungen/anime-serien-und-figuren.md)
-- [Moral, Emotion und Erzaehlmotive](fiktion-anime-weltbau-und-erzaehlungen/moral-emotion-und-erzaehlmotive.md)
-- [Fantasy, Isekai und Weltbau](fiktion-anime-weltbau-und-erzaehlungen/fantasy-isekai-und-weltbau.md)
+Die Seite soll sich schnell lesen lassen und sofort zeigen, warum ein Werk für mich hängenbleibt.
 
 ---
 
