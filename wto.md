@@ -37,7 +37,7 @@ Ebenso auffällig ist die enge Verbindung zu Technik. Viele Diskussionen, die au
 
 ## Moegliche Umsetzungen
 
-Diese Datei eignet sich in ChatGPT-Projekten besonders gut als konzeptioneller Rahmen für Fragen digitaler Beschaffung, Plattformkritik, offene Standards, Datenportabilität, öffentliche IT, Patentkritik und menschenrechtsgebundene Wirtschaftsordnung. Sie kann helfen, spätere Ideen nicht nur als nationale Reformen zu formulieren, sondern auf eine globale Regelperspektive zu heben.
+Diese Seite eignet sich besonders gut als konzeptioneller Rahmen für Fragen digitaler Beschaffung, Plattformkritik, offene Standards, Datenportabilität, öffentliche IT, Patentkritik und menschenrechtsgebundene Wirtschaftsordnung. Sie kann helfen, spätere Ideen nicht nur als nationale Reformen zu formulieren, sondern auf eine globale Regelperspektive zu heben.
 
 Anschlussfähig sind aus dem Bestand insbesondere Modelle für verpflichtende Exportwege, offene Schnittstellen, regelmäßige Exit-Prüfungen, interoperable Beschaffungsstandards, menschenrechtlich konditionierten Marktzugang und eine Wirtschaftspolitik, die technische Freiheit nicht dem Herstellerinteresse opfert.
 

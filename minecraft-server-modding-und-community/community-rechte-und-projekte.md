@@ -207,7 +207,7 @@ Fazit:
 Das NTW-Casino auf OP-Sucht steht stellvertretend für einen Wandel in der Minecraft-Community: von geduldeten Glücksspielsystemen zu klaren Regeln und gesetzlichen Grenzen. Der Konflikt hat die Community gespalten, wird aber im Rückblick eher als Episode gesehen werden. Langfristig dürfte Jugendschutz immer stärker zum Maßstab werden, auch bei Ingame-Kisten und Mikrotransaktionen.
 
 ### Strategische Überlegungen und Umsetzung
-Thomas entwickelte einen Plan, wie er den Booster optimal ausnutzen kann:
+Ein Plan zur optimalen Nutzung des Boosters sieht folgendes vor:
 Freitag (Gräber-Boost): gezielter Abbau von Sand, rotem Sand und Kies; Fokus auf hohe Job-Action-Rate.
 Samstag (Holzfäller-Boost): Nutzung vorhandener Baumplantagen; paralleler Lageraufbau für Holzsorten.
 Sonntag (Minenarbeiter-Boost): Kombination aus Erzabbau und Materialgewinn für spätere Projekte.
@@ -245,16 +245,16 @@ Stand: 2025-09-10
 
 ### Allgemeine Chat-Momente und Community-Dynamik
 - Autsch-Momente: Spieler verlieren wertvolle Items im Void oder durch Farmwelt-Resets. Diese Situationen sorgen oft für Frust, zeigen aber auch die Risiken von teuren Items im aktiven Gameplay.
-- Markt-Diskussionen: Im Chat gab es Proteste gegen hohe Preise, speziell beim „Bohrer“. Spieler nutzen sogar Karten-Items mit satirischen Namen wie „Stoppt den Bohrer – Preis Wahnsinn“, um ein Statement zu setzen.
-- Clanregeln: Ein Spieler forderte WhatsApp als Pflicht für Clan-Mitglieder. Dies wurde kritisch gesehen, da es Spieler ausschließt. Thomas selbst fände es humorvoller, Clans mit Tags wie THRMA (Threema) oder DSVGO zu gründen – als satirische Reaktion auf unnötige Hürden.
+- Markt-Diskussionen: In der Community gab es Proteste gegen hohe Preise, speziell beim „Bohrer“. Spieler nutzen sogar Karten-Items mit satirischen Namen wie „Stoppt den Bohrer – Preis Wahnsinn“, um ein Statement zu setzen.
+- Clanregeln: Ein Spieler forderte WhatsApp als Pflicht für Clan-Mitglieder. Dies ist kritisch zu sehen, da es Spieler ausschließt. Humorvoller wäre es, Clans mit Tags wie THRMA (Threema) oder DSVGO zu gründen – als satirische Reaktion auf unnötige Hürden.
 
 ### Gedanken und Ideen
-- Archivierung: Thomas überlegt, ein inoffizielles Community-Archiv für OPSucht-Items aufzubauen, um auch alte Items (Ex-Teamler, alte Events) zu dokumentieren. /items ist unvollständig, das Wiki ebenso.
+- Archivierung: Ein inoffizielles Community-Archiv für OPSucht-Items könnte aufgebaut werden, um auch alte Items (Ex-Teamler, alte Events) zu dokumentieren. /items ist unvollständig, das Wiki ebenso.
 - Handelssystem: Er denkt darüber nach, Items nach Kategorien zu bewerten: stabil (in /items gelistet), spekulativ (noch gehandelt, aber undokumentiert), und historisch (verloren oder nur bei Sammlern).
 - Clans: Ein satirischer Clan mit Tags wie THRMA oder DSVGO könnte gleichzeitig als Meme und Statement gegen unnötige Einschränkungen dienen.
 
 ### Fazit
-Thomas beobachtet und reflektiert nicht nur die Marktmechanismen und Community-Reaktionen auf OPSucht, sondern denkt auch über Meta-Ebenen nach – von faireren Support-Systemen (ohne Discord-Zwang) bis hin zu einem möglichen Community-Archiv für Items. Gleichzeitig bleibt der Humor nicht auf der Strecke: satirische Clan-Ideen und das Sammeln von „Server-Memes“ gehören genauso dazu wie ernsthafte Optimierung von Auktions- und Itemstrategien.
+Die Beobachtungen betreffen nicht nur Marktmechanismen und Community-Reaktionen auf OPSucht, sondern auch Meta-Ebenen – von faireren Support-Systemen (ohne Discord-Zwang) bis hin zu einem möglichen Community-Archiv für Items. Gleichzeitig bleibt der Humor nicht auf der Strecke: satirische Clan-Ideen und das Sammeln von „Server-Memes“ gehören ebenso dazu wie ernsthafte Optimierung von Auktions- und Itemstrategien.
 
 ---
 

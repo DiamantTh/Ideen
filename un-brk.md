@@ -37,7 +37,7 @@ Ebenso interessant ist, wie eng Inklusion mit anderen Themen verknüpft ist. Sch
 
 ## Moegliche Umsetzungen
 
-Diese Datei ist in ChatGPT-Projekten besonders nützlich, wenn es um Inklusion, Barrierefreiheit, Behördenkritik, Mobilität, Schule, Assistenz oder alternative Gesellschaftsmodelle geht. Sie eignet sich als Referenztext, um künftige Ideen an einem klaren Maßstab auszurichten: Ermöglicht ein Vorschlag tatsächliche Teilhabe oder reproduziert er nur höflichere Formen des Ausschlusses?
+Diese Seite ist besonders nützlich, wenn es um Inklusion, Barrierefreiheit, Behördenkritik, Mobilität, Schule, Assistenz oder alternative Gesellschaftsmodelle geht. Sie eignet sich als Referenztext, um künftige Ideen an einem klaren Maßstab auszurichten: Ermöglicht ein Vorschlag tatsächliche Teilhabe oder reproduziert er nur höflichere Formen des Ausschlusses?
 
 Praktisch anschlussfähig sind aus den Materialien vor allem Forderungen nach verbindlicherer Barrierefreiheit, sichtbareren Verantwortungsketten, weniger Vorab-Bettelzwang, stärkeren Beschwerde- und Sanktionswegen, inklusiver Bildungsorganisation und einer Infrastrukturpolitik, die Behinderung nicht als Randbedingung behandelt.
 

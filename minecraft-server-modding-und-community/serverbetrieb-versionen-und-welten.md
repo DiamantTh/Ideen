@@ -38,7 +38,7 @@ Einordnung: Dieser Abschnitt bündelt die wiederkehrenden Linien des Themas und 
 - Anonymisierung statt Komplett‑Löschung: Erklärung zu Meinungs‑/Informationsfreiheit und Entfernung des Personenbezugs.
 - Backup‑Hinweis: Historische Off‑site‑Backups werden nicht editiert und fristgerecht überschrieben.
 
-### To‑Dos & Roadmap (deine nächsten Schritte)
+### To‑Dos & Roadmap (nächste Schritte)
 - Mail‑Only‑Flow finalisieren: Auto‑Reply, Checkliste, mailto:‑Baustein.
 - phpMyAdmin‑Bookmarks anlegen: LuckPerms / LiteBans / CoreProtect‑Chat/Commands.
 - Essentials‑YAML als feste DSAR‑Quelle definieren.
@@ -57,7 +57,7 @@ Einordnung: Dieser Abschnitt bündelt die wiederkehrenden Linien des Themas und 
 
 Fazit:* Du kannst DSARs ohne neues Portal und ohne Scripting robust abwickeln: Mail‑Only‑Prozess + phpMyAdmin‑Bookmarks + klare Policies. Für Minecraft/Legacy reicht das in 90 % der Fälle – transparent, prüfbar, wartungsarm.
 
-### Kontext des Gesprächs
+### Kontext der vorliegenden Inhalte
 Das Gespräch fand in einem Discord-Channel mit dem Thema "kleine-fragen" statt und drehte sich um die Altersfreigabe von Discord sowie deren Auswirkungen auf Clans, insbesondere im Umfeld von OPSucht (Minecraft-Servernetzwerk). Es wurden verschiedene rechtliche, technische und soziale Aspekte beleuchtet.
 
 ### Rechtlicher Rahmen
@@ -153,7 +153,7 @@ Aus zwei Meme-Tooltips entsteht ein rundes, servertaugliches Enchant-Set. Es res
 - Einzelne Bewerber (z. B. ich) würden automatisch viel Aufmerksamkeit bekommen.
 
 ### Einleitung
-In diesem Gespräch habe ich verschiedene Ideen entwickelt, wie Microsoft oder Mojang ein stärkeres Compliance-System für Minecraft (vor allem Java Edition) aufbauen könnten. Dabei habe ich sowohl meine Gedanken zur Rolle einzelner Entwickler als auch zur Reaktion der Community und möglicher Zukunftsszenarien ausgeführt.
+Die folgenden Ideen skizzieren, wie Microsoft oder Mojang ein stärkeres Compliance-System für Minecraft (vor allem Java Edition) aufbauen könnten. Betrachtet werden dabei die Rolle einzelner Entwickler, die Reaktion der Community sowie mögliche Zukunftsszenarien.
 
 ### Fazit
 Das Thema zeigt, dass Open Source, Premium-Plugins und die Interessen großer Netzwerke in Minecraft stark kollidieren.
@@ -366,7 +366,7 @@ rm -rf "${WORLD}/playerdata" "${WORLD}/data/containerdata" 2>/dev/null || true
 ### Überblick in Kürze
 - Kernthese: Minecraft ist in den letzten Jahren modularer geworden (Datapacks, JSON-basierte Systeme, API‑Hooks). Das erleichtert Mojang/Microsoft kleine, häufige Releases – verlagert aber Anpassungsaufwand auf Server-Admins und Mod-/Plugin-Entwickler.
 - Konfliktfeld: Bedrock erhält Zwangsupdates über Konsolen/App-Stores und nutzt abweichende Versionsschemata (z. B. 1.21.100 statt 1.21.1). Community‑Server (oft Java‑basiert) brauchen Zeit für Protokoll‑/API‑Updates → spürbare Verzögerungen.
-- Dein Fokus: Verständnis der Architektur-Entwicklung (früher vs. heute), Realitäten für Serverbetrieb (Proxy/Version-Bridge), sowie kreative Nutzung von Dimensionen (Datapacks/Mods) und kuriosen Challenges.
+- Fokus: Verständnis der Architektur-Entwicklung (früher vs. heute), Realitäten für Serverbetrieb (Proxy/Version-Bridge), sowie kreative Nutzung von Dimensionen (Datapacks/Mods) und kuriosen Challenges.
 
 ### Kurz‑Glossar
 - Datapack: Paket mit JSON‑Definitionen (Rezepte, Loot, Biome, Dimensionen) – Vanilla‑tauglich.
@@ -563,12 +563,12 @@ Datei erstellt am: 2025-09-16
 Diese Notizen fassen die zugrunde liegende Darstellung zu „inkompatiblen“ Ressourcen-/Texturpaketen in Minecraft zusammen – inkl. Beobachtungen im Spiel, Ursachen in pack.mcmeta, Besonderheiten der pack_format-Werte (inkl. Snapshots/Pre‑Releases), konkreten Beispielen (z. B. Sandy Dunes, Animated Rainbow XP Bar) sowie praktikablen Lösungen und einer kleinen Roadmap. Fokus: Minecraft 1.21.x, konkret Server/Client 1.21.4.
 
 ### Minimales Mapping (Kernauszug aus unserer Diskussion)
-Achtung: Resource‑ vs. Datapack‑Linien sind verschieden; unten steht bewusst der Fokus auf Ressourcenpacks für dein Setup, ergänzt um die „auffälligen“ Zahlen.
+Achtung: Resource‑ vs. Datapack‑Linien sind verschieden; unten steht bewusst der Fokus auf Ressourcenpacks, ergänzt um die „auffälligen“ Zahlen.
 - Ressourcenpacks
 - 1.20.5 (Pre‑Release‑Kontext): 32
 - 1.21 / 1.21.1 (Release‑Kontext): 34
 - 1.21.0 Pre 1–4: 46
-- 1.21.4 (dein Server/Client): 46
+- 1.21.4 (Server/Client): 46
 - 1.21.5 (Release‑Kontext): 55
 - Snapshot 25w20a (Entwicklungszweig): 61 (führt im Release‑Client zu „zu neu“)
 - Datapacks (nur zur Abgrenzung, häufige Verwechslung)
@@ -616,23 +616,23 @@ Achtung: Resource‑ vs. Datapack‑Linien sind verschieden; unten steht bewusst
 - Kombination ergibt ein extrem agiles, vielseitiges Allround-Set.
 
 ### Ausgangspunkt – Die Job Booster Woche
-Thomas nahm die von OPSucht angekündigte „Job Booster Woche“ als Anlass, seine Aktivitäten gezielt nach den tagesabhängigen Boosts zu planen. Jeden Tag ist ein anderer Job mit einem Bonus versehen. Schnell wurde klar, dass sich für ihn die Tage Freitag (Gräber), Samstag (Holzfäller) und Sonntag (Minenarbeiter) als Haupttage eignen, da sie seinen stärksten Jobs entsprechen.
+Die von OPSucht angekündigte „Job Booster Woche“ bietet Anlass, Aktivitäten gezielt nach den tagesabhängigen Boosts zu planen. Jeden Tag ist ein anderer Job mit einem Bonus versehen. Freitag (Gräber), Samstag (Holzfäller) und Sonntag (Minenarbeiter) erweisen sich als die stärksten Tage.
 
 Unter der Woche (Builder, Fischer, Jäger, Farmer) erkannte er zwar das Potenzial bestimmter Berufe, sah aber zugleich deren begrenzte Effizienz – insbesondere beim Builder, der sich eher für kreative Bauleute eignet als für Spieler mit Fokus auf Einkommen und Ressourcengewinn.
 
 ### Farmwelt und Materialbewertung
-Während seiner Vorbereitung entdeckte Thomas in der Farmwelt eine Zone mit rotem Sand und Terrakotta – ein günstiger Random-Spawn, der sich als „Mini-Jackpot“ erwies. Roter Sand zählt beim Gräberjob, während Terrakotta zusätzlich als wertvolles Baumaterial gesammelt werden kann.
+In der Farmwelt findet sich eine Zone mit rotem Sand und Terrakotta – ein günstiger Random-Spawn, der sich als „Mini-Jackpot“ erweist. Roter Sand zählt beim Gräberjob, während Terrakotta zusätzlich als wertvolles Baumaterial gesammelt werden kann.
 Er erkannte den ökonomischen Vorteil, da sich hier gleich zwei Nutzen überschneiden: Geldgewinn durch den Job und langfristiger Materialwert für Projekte oder Handel.
 
-Parallel dazu stellte er fest, dass Stöcke in der Wüste das nutzloseste Nebenprodukt sind – sie verstopfen Inventare, haben aber noch minimalen Nutzen als Brennstoff oder Notfallmaterial für Fackeln. Diese nüchterne Analyse zeigt, wie Thomas zwischen Ressourcenwert, Spielökonomie und Nutzenabwägung unterscheidet.
+Stöcke in der Wüste sind das nutzloseste Nebenprodukt – sie verstopfen Inventare, haben aber noch minimalen Nutzen als Brennstoff oder Notfallmaterial für Fackeln. Diese Abwägung zeigt ein klares Bewusstsein für Ressourcenwert und Spielökonomie.
 
 ### Fazit
-Thomas hat seine OPSucht-Aktivitäten auf maximale Synergie ausgelegt. Mit Gräber-, Holzfäller- und Minenarbeiter-Jobs bildet er ein stabiles Fundament, das sowohl Einkommen als auch Materialien liefert. Die Farmwelt-Entdeckung mit rotem Sand und Keramik stärkt diese Strategie zusätzlich.
+Die OPSucht-Aktivitäten sind auf maximale Synergie ausgelegt. Mit Gräber-, Holzfäller- und Minenarbeiter-Jobs entsteht ein stabiles Fundament, das sowohl Einkommen als auch Materialien liefert. Die Farmwelt-Entdeckung mit rotem Sand und Keramik stärkt diese Strategie zusätzlich.
 
 Er verfolgt damit einen strukturierten, nachhaltigen Spielstil, der Effizienz, Spaß und Planung vereint – ganz im Sinne eines Spielers, der seine Umgebung versteht und optimal nutzt.
 
 ### Überblick
-Der Chat drehte sich um die strategische Nutzung der „Job Booster Woche“ auf dem Minecraft-Server OPSucht. Thomas analysierte dabei gezielt, welche Jobs sich unter bestimmten Boosts am meisten lohnen und welche eher Zeitverschwendung darstellen. Besonders im Fokus standen die Gräber-, Holzfäller- und Minenarbeiter-Jobs, da sie seinem natürlichen Spielverhalten entsprechen und die besten Erträge liefern. Neben der taktischen Planung ging es auch um Nebenfaktoren wie Farmwelt-Spawnbedingungen, Materialwert und Effizienz beim Ressourcenabbau.
+Die strategische Nutzung der „Job Booster Woche“ auf dem Minecraft-Server OPSucht steht im Fokus. Analysiert wird, welche Jobs sich unter bestimmten Boosts am meisten lohnen und welche eher Zeitverschwendung darstellen. Besonders beachtet werden die Gräber-, Holzfäller- und Minenarbeiter-Jobs sowie Nebenfaktoren wie Farmwelt-Spawnbedingungen, Materialwert und Effizienz beim Ressourcenabbau.
 
 ### Alternative Wege zur Kritik
 - Statt im Discord zu posten: außerhalb Kritik veröffentlichen.
@@ -679,13 +679,13 @@ Dadurch wird die Stimme des Spielers langfristig gehört, ohne sofort mit Sankti
 ### Grundsituation
 - OPSMP wird durch OPSucht gestützt, eine Firma mit Angestellten, Shop-System (Verkäufe von Rängen) und professioneller Struktur.
 - Sie suchen nach Experten und kreativen Köpfen, auch gegen Bezahlung, um die Zukunft des Servers mitzugestalten.
-- Mein eigenes Profil:
-- Ich habe keine klassische Berufserfahrung, aber viele Ideen und Konzepte.
-- Ich möchte meine Arbeiten unter freier Lizenz (CC-BY-SA) veröffentlichen.
-- Ich würde Arbeitszeit vergütet haben wollen, nicht aber Exklusivrechte an meinen Ideen abtreten.
+- Eigenes Profil (beispielhaft):
+- Keine klassische Berufserfahrung, aber viele Ideen und Konzepte.
+- Arbeiten sollen unter freier Lizenz (CC-BY-SA) veröffentlicht werden.
+- Arbeitszeit soll vergütet werden, ohne Exklusivrechte an Ideen abzutreten.
 
 ### Transparenz
-- Ich habe den Anspruch, Gespräche und Ergebnisse öffentlich zu dokumentieren.
+- Gespräche und Ergebnisse sollen öffentlich dokumentiert werden.
 - Das passt nicht zu klassischen Firmen, die Verschwiegenheit erwarten.
 - NDA (Geheimhaltungsvertrag) noch vor dem ersten Gespräch wäre für mich ein No-Go und wirkt abschreckend.
 - Trotzdem: Viele Firmen setzen stillschweigend voraus, dass Bewerber nichts veröffentlichen.

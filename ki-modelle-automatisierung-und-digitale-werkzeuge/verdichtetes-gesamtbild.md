@@ -7,9 +7,9 @@ title: Verdichtetes Gesamtbild
 
 # Verdichtetes Gesamtbild
 
-Im Gesamtbild zeigt diese Datei, dass KI, Automatisierung und digitale Werkzeuge in deinem Material nicht als isolierte Techniktrends behandelt werden. Sie sind Teil einer größeren Debatte über Kontrolle, Transparenz, Fairness, Erreichbarkeit, lokale Souveränität und institutionelle Rechenschaft. Modelle und Plattformen werden nicht nur nach Leistung, sondern nach ihrer politischen und praktischen Struktur beurteilt.
+Im Gesamtbild zeigt diese Datei, dass KI, Automatisierung und digitale Werkzeuge im vorliegenden Material nicht als isolierte Techniktrends behandelt werden. Sie sind Teil einer größeren Debatte über Kontrolle, Transparenz, Fairness, Erreichbarkeit, lokale Souveränität und institutionelle Rechenschaft. Modelle und Plattformen werden nicht nur nach Leistung, sondern nach ihrer politischen und praktischen Struktur beurteilt.
 
-Für ChatGPT-Projekte ist diese neue Fassung deshalb deutlich besser geeignet als die frühere Sammeldatei. Sie ist eigenständig lesbar, thematisch klarer und hält die wichtigsten Linien so zusammen, dass spätere Ideen- und Prozessarbeit darauf sauber aufbauen kann.
+Als Referenztext ist diese neue Fassung deutlich besser geeignet als die frühere Sammeldatei. Sie ist eigenständig lesbar, thematisch klarer und hält die wichtigsten Linien so zusammen, dass spätere Ideen- und Prozessarbeit darauf sauber aufbauen kann.
 
 ---
 

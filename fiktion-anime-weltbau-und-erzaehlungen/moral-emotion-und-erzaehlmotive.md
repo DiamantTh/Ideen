@@ -68,7 +68,7 @@ Ende der Zusammenfassung
 (Erstellt am 06.10.2025)
 
 ### Betreuer‑Management
-- Dein Betreuer weiß über die Präferenzen Bescheid; zukünftige Betreuer sollen dieselben sicheren Kanäle (Signal/Threema, ggf. verschlüsselte E‑Mail) nutzen.
+- Der Betreuer kennt die Präferenzen; zukünftige Betreuer sollen dieselben sicheren Kanäle (Signal/Threema, ggf. verschlüsselte E‑Mail) nutzen.
 - Wunsch: formaler „Kommunikationsleitfaden“ für Betreuung und Behörden (digital-first, DSGVO-konform).
 
 ### Mobs Kräfte und Schüchternheit
