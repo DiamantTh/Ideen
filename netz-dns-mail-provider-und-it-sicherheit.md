@@ -8,17 +8,19 @@ description: Persönliche Gedanken zu Infrastruktur, Vertrauen und digitaler Sic
 
 # Netz, DNS, Mail, Provider und IT-Sicherheit
 
-Dieser Bereich dreht sich um die technische Basis, auf die man sich im Alltag verlassen muss. Mich beschäftigen hier vor allem die Punkte, an denen Infrastruktur unsichtbar wirkt, aber über Freiheit, Sicherheit und Handlungsfähigkeit entscheidet.
+## Kurz gesagt
 
-## Worum es mir hier geht
+Hier geht es um die technische Basis, auf die man sich verlassen können muss. Mich interessieren vor allem die Punkte, an denen Infrastruktur, Sicherheit und Alltagstauglichkeit direkt zusammenhängen.
 
-Ich will verstehen und benennen, wo Provider, Authentifizierung, Mail, DNS und Sicherheitsmodelle sinnvoll aufgebaut sind und wo sie unnötige Abhängigkeit schaffen. Gute Infrastruktur ist für mich nicht spektakulär, sondern verlässlich, lesbar und fair.
-
-## Was hier relevant bleibt
+## Im Fokus
 
 - nachvollziehbare Sicherheits- und Recovery-Prozesse
 - offene, stabile Infrastruktur statt künstlicher Bindung
-- Technik, die dem Alltag hilft statt ihn zu erschweren
+- Technik, die verlässlich hilft statt neue Hürden schafft
+
+## Warum die Seite so kurz bleibt
+
+Darum ist der Bereich bewusst nach Kernfragen geordnet und nicht nach beliebigen Einzelfällen.
 
 ---
 

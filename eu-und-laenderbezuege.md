@@ -8,17 +8,19 @@ description: Persönliche Vergleiche zwischen Staaten, Institutionen und Reformm
 
 # EU und Länderbezüge
 
-Hier sammle ich keine vollständigen Länderprofile, sondern nur Vergleiche, die mir wirklich etwas bringen. Mich interessiert, wie unterschiedliche Staaten mit Recht, Technik, Verwaltung, Freiheit und gesellschaftlicher Verantwortung umgehen.
+## Kurz gesagt
 
-## Worum es mir hier geht
+Ich nutze diesen Bereich für Vergleiche, die mir wirklich beim Einordnen helfen. Es geht nicht um vollständige Länderporträts, sondern um Unterschiede, aus denen ich etwas für Gegenwart und Reformideen lernen kann.
 
-Ich will besser verstehen, welche Modelle im Alltag funktionieren, wo Systeme fairer wirken und wo bloß alte Machtstrukturen sauber verpackt werden. Die EU ist dabei für mich oft der Referenzraum, aber der Blick nach außen ist wichtig, um blinde Flecken sichtbar zu machen.
+## Im Fokus
 
-## Was hier relevant bleibt
+- Wie gehen Staaten mit Recht, Verwaltung und Freiheit um?
+- Welche Modelle wirken im Alltag fair und nachvollziehbar?
+- Was lässt sich als Vergleich für Novara oder andere Reformideen mitnehmen?
 
-- politische und rechtliche Unterschiede mit echter Aussagekraft
-- praktische Folgen für Menschen statt reiner Staatsrhetorik
-- Vergleichswerte, die für Reformideen wie Novara nützlich sind
+## Warum die Seite so kurz bleibt
+
+Der Bereich bleibt bewusst knapp, damit beim Lesen sofort klar ist, warum ein Vergleich relevant ist und was er aussagt.
 
 ---
 

@@ -8,17 +8,19 @@ description: Persönlicher Entwurf für eine andere Ordnung aus Verwaltung, Tech
 
 # Novara und SVZ
 
-Novara ist für mich kein bloßes Gedankenspiel, sondern der Versuch, viele Kritikpunkte an heutigen Systemen in einen eigenen Ordnungsentwurf zu übersetzen. Hier sammle ich die Grundidee dahinter: transparenter, nachvollziehbarer und stärker an Menschen orientiert als das, was ich heute oft erlebe.
+## Kurz gesagt
 
-## Worum es mir hier geht
+Novara ist für mich kein bloßes Gedankenspiel, sondern ein Versuch, Kritik an heutigen Systemen in einen eigenen Ordnungsentwurf zu übersetzen. Der Kern ist eine Ordnung, die transparenter, nachvollziehbarer und stärker an Menschen orientiert ist.
 
-Mich interessiert, wie Verwaltung, Rechte, Infrastruktur und gesellschaftliche Teilhabe aussehen müssten, wenn man sie nicht aus Gewohnheit, sondern aus Verantwortung heraus neu denkt. Novara ist deshalb kein Fluchtort, sondern ein Prüfstein für bessere Regeln.
-
-## Was hier relevant bleibt
+## Im Fokus
 
 - transparente Zuständigkeiten und echte Rechenschaft
-- offene Technik und klare Regeln statt institutioneller Abschirmung
-- Teilhabe, Bildung und Würde als Kern der Ordnung
+- offene Technik und klare Regeln statt Abschirmung
+- Teilhabe, Bildung und Würde als Grundprinzip
+
+## Warum die Seite so kurz bleibt
+
+Die Seite bleibt absichtlich kompakt, damit man die Grundidee schnell erfassen kann, ohne sich durch zu viele Nebenlinien zu arbeiten.
 
 ---
 

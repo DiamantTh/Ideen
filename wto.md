@@ -8,17 +8,19 @@ description: Persönliche Gedanken zu Handel, Abhängigkeiten und wirtschaftlich
 
 # WTO – Welthandelsorganisation
 
-Handel wirkt oft technisch oder weit weg, bestimmt aber sehr direkt, wer abhängig bleibt, wer Standards setzt und wer von globalen Regeln profitiert. Ich will hier nur die Punkte festhalten, an denen Handelsordnung spürbare Folgen für Menschen, Staaten und digitale Souveränität hat.
+## Kurz gesagt
 
-## Worum es mir hier geht
+Handel wirkt oft weit weg, bestimmt aber sehr direkt, wer abhängig bleibt und wer Standards setzt. Ich halte hier nur die Punkte fest, an denen Handelsordnung sichtbare Folgen für Menschen, Staaten und digitale Souveränität hat.
 
-Mich interessiert, wie wirtschaftliche Regeln Macht verteilen und ob sie demokratische Handlungsspielräume schützen oder einschränken. Die WTO ist für mich deshalb weniger ein Spezialthema als ein Ort, an dem sich politische und wirtschaftliche Interessen besonders offen zeigen.
+## Im Fokus
 
-## Was hier relevant bleibt
-
-- Handel mit Blick auf Abhängigkeit, Rechte und Gestaltungsspielraum
+- Abhängigkeit, Rechte und wirtschaftlicher Gestaltungsspielraum
 - öffentliche Interessen statt reiner Marktlogik
 - Regeln, die Staaten und Gesellschaften nicht entmündigen
+
+## Warum die Seite so kurz bleibt
+
+Die Seite soll deshalb schon beim Überfliegen geordnet und klar wirken.
 
 ---
 

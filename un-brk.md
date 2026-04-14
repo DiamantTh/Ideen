@@ -8,17 +8,19 @@ description: Persönliche Gedanken zu Inklusion, Barrierefreiheit und gelebten R
 
 # UN-BRK – Behindertenrechtskonvention
 
-Die UN-BRK ist für mich kein Randthema, sondern ein direkter Maßstab dafür, wie ehrlich eine Gesellschaft mit Würde, Zugang und Teilhabe umgeht. Hier möchte ich festhalten, wo Anspruch und Realität auseinanderlaufen und was sich daraus lernen lässt.
+## Kurz gesagt
 
-## Worum es mir hier geht
+Die UN-BRK ist für mich ein direkter Maßstab dafür, wie ehrlich eine Gesellschaft mit Würde, Zugang und Teilhabe umgeht. Mich interessiert dabei weniger die schöne Form als die reale Wirkung im Alltag.
 
-Mich interessiert nicht nur die rechtliche Form, sondern die praktische Frage, ob Menschen wirklich selbstbestimmt leben, lernen und teilnehmen können. Genau dort zeigt sich, ob Inklusion ernst gemeint ist oder nur als schönes Wort mitgeführt wird.
-
-## Was hier relevant bleibt
+## Im Fokus
 
 - Barrierefreiheit im Alltag und nicht nur auf dem Papier
-- verständliche Verfahren, echte Unterstützung und Respekt
+- verständliche Verfahren und echte Unterstützung
 - Inklusion als Grundhaltung statt Ausnahmeregelung
+
+## Warum die Seite so kurz bleibt
+
+Deshalb bleibt der Bereich reduziert und klar lesbar, statt sich in zu vielen Randthemen zu verlieren.
 
 ---
 

@@ -8,17 +8,19 @@ description: Persönliche Gedanken zu Systemen, die Menschen helfen oder im Stic
 
 # Gesellschaft, Recht, Inklusion, Bildung und Gesundheit
 
-Das ist einer der persönlichsten Bereiche im Projekt. Hier geht es um Fragen, an denen sich zeigt, ob Strukturen Menschen wirklich schützen, fördern und ernst nehmen oder ob sie nur formal zuständig wirken.
+## Kurz gesagt
 
-## Worum es mir hier geht
+Dieser Bereich ist einer der persönlichsten im Projekt. Hier geht es um die Frage, ob Strukturen Menschen wirklich schützen, fördern und ernst nehmen oder ob sie nur formal zuständig wirken.
 
-Ich will benennen, wo Recht, Bildung, Gesundheit und Inklusion im Alltag tragen und wo sie an ihrer eigenen Kälte scheitern. Mich interessiert dabei nicht die schöne Selbstdarstellung eines Systems, sondern seine Wirkung auf die Betroffenen.
+## Im Fokus
 
-## Was hier relevant bleibt
+- Wirkung von Recht, Bildung und Gesundheit im Alltag
+- Inklusion und Förderung als gelebte Praxis
+- verständliche Regeln statt institutioneller Kälte
 
-- konkrete Folgen für Alltag, Zugang und Würde
-- verständliche Regeln statt institutioneller Nebel
-- Inklusion und Förderung als Praxis, nicht als Schlagwort
+## Warum die Seite so kurz bleibt
+
+Beim Lesen soll sofort sichtbar sein, dass hier die Betroffenenperspektive im Mittelpunkt steht.
 
 ---
 

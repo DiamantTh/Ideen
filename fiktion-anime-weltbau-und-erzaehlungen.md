@@ -8,17 +8,19 @@ description: Persönliche Notizen zu Geschichten, Figuren und erzählerischen Mo
 
 # Fiktion, Anime, Weltbau und Erzählungen
 
-Dieser Bereich ist für Geschichten, Figuren und Motive, die bei mir wirklich hängenbleiben. Ich will hier nicht alles sammeln, was ich irgendwann gesehen habe, sondern nur das, was mich emotional, moralisch oder erzählerisch beschäftigt.
+## Kurz gesagt
 
-## Worum es mir hier geht
+Hier landen nur Geschichten, Figuren und Motive, die bei mir wirklich etwas auslösen. Ich will nicht alles sammeln, sondern das festhalten, was emotional, moralisch oder erzählerisch nachwirkt.
 
-Mich interessieren Welten, die konsequent gebaut sind, Figuren mit echten inneren Spannungen und Erzählungen, die mehr auslösen als nur kurzfristige Unterhaltung. Gerade bei Anime und Fantasy merke ich oft schnell, ob etwas nur hübsch aussieht oder wirklich etwas in mir trifft.
+## Im Fokus
 
-## Was hier relevant bleibt
+- Figuren mit glaubwürdigen inneren Konflikten
+- Weltbau mit eigener Logik statt bloßer Kulisse
+- Motive, die über reine Unterhaltung hinausgehen
 
-- starke Figuren und glaubwürdige Beziehungen
-- Weltbau mit eigener Logik statt bloßer Deko
-- Motive, die moralisch oder emotional nachwirken
+## Warum die Seite so kurz bleibt
+
+Die Seite soll sich schnell lesen lassen und sofort zeigen, warum ein Werk für mich hängenbleibt.
 
 ---
 

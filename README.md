@@ -9,6 +9,7 @@ Persönlicher Thinktank – Ideen, Analysen und Zukunftsvisionen zu Technik, Ges
 ## Schreibprinzipien
 
 - Texte sollen klar als persönliche Gedanken erkennbar sein und nicht wie neutrale Maschinenzusammenfassungen klingen.
+- Jede Seite startet mit einer kurzen Kernaussage und danach wenigen klaren Fokuspunkten.
 - Jede Seite bekommt nur einen klaren Fokus; Nebenthemen und lose Abschweifungen bleiben draußen.
 - Wichtiger als Vollständigkeit sind Relevanz, Haltung und konkrete Aussage.
 - Kurze, direkte Formulierungen sind besser als aufgeblähte Einordnungen.

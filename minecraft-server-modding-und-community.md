@@ -8,17 +8,19 @@ description: Persönliche Ideen zu Servern, Mods, Spielsystemen und Community-Re
 
 # Minecraft, Server, Modding und Community
 
-Hier landen meine Gedanken zu Minecraft als Spielraum für Technik, Kreativität und Gemeinschaft. Mich interessiert vor allem, wie Server aufgebaut sein müssen, damit sie Spaß machen, fair bleiben und nicht in Chaos oder Machtspielchen kippen.
+## Kurz gesagt
 
-## Worum es mir hier geht
+Minecraft ist für mich spannend, wenn Technik, Kreativität und Community gut zusammenpassen. Ich sammle hier nur Ideen, die für faire Server, gute Spielsysteme und eine starke Atmosphäre wirklich etwas bringen.
 
-Ich möchte festhalten, welche Rollen Modding, Welten, Wirtschaftssysteme und Community-Regeln für ein gutes Spielerlebnis haben. Minecraft ist für mich dann spannend, wenn Technik und Atmosphäre zusammenpassen und die Community nicht nur verwaltet, sondern wirklich getragen wird.
-
-## Was hier relevant bleibt
+## Im Fokus
 
 - klare und faire Regeln für Server und Spieler
 - Mods und Systeme mit echtem Mehrwert
-- Fortschritt, Wirtschaft und Community ohne unnötigen Frust
+- Progression und Wirtschaft ohne unnötigen Frust
+
+## Warum die Seite so kurz bleibt
+
+Die Seite soll beim Überfliegen direkt zeigen, worauf es mir in diesem Themenfeld ankommt.
 
 ---
 

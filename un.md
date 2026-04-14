@@ -8,17 +8,19 @@ description: Persönliche Gedanken zu globaler Ordnung, Verantwortung und instit
 
 # UN – Vereinte Nationen
 
-Die UN interessiert mich vor allem dort, wo sie zwischen Anspruch und Ohnmacht steht. Ich will hier nicht jede Institution einzeln ausleuchten, sondern die Frage festhalten, was globale Ordnung leisten müsste, um Menschen in Krisen, Konflikten und struktureller Ungleichheit wirklich zu helfen.
+## Kurz gesagt
 
-## Worum es mir hier geht
+Die UN interessiert mich vor allem dort, wo sie zwischen Anspruch und Ohnmacht steht. Es geht mir um die Frage, was globale Ordnung leisten müsste, um Menschen in Krisen und Konflikten wirklich zu schützen.
 
-Mich beschäftigt, wie internationale Legitimität entsteht und warum sie so oft an Machtpolitik, Trägheit oder fehlender Durchsetzung scheitert. Die UN ist dabei für mich weniger Symbol als Prüfstein für die Ernsthaftigkeit globaler Verantwortung.
-
-## Was hier relevant bleibt
+## Im Fokus
 
 - konkrete Schutzwirkung statt bloßer Resolutionen
-- internationale Verantwortung mit nachvollziehbaren Grenzen
-- die Frage, wo globale Institutionen tragen und wo sie versagen
+- internationale Verantwortung mit erkennbaren Grenzen
+- die Frage, wo globale Institutionen tragen und wo sie scheitern
+
+## Warum die Seite so kurz bleibt
+
+So bleibt die Seite lesbar und konzentriert sich auf den eigentlichen Prüfstein globaler Verantwortung.
 
 ---
 

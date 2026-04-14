@@ -8,17 +8,19 @@ description: Persönliche Gedanken zu globaler Gesundheit, Forschung und gerecht
 
 # WHO – Weltgesundheitsorganisation
 
-Gesundheit ist für mich ein Bereich, in dem sich globale Ungleichheit besonders deutlich zeigt. Deshalb geht es hier um die WHO nicht als abstrakte Organisation, sondern als Maßstab dafür, wie ernst Zugang, Forschung und internationale Verantwortung genommen werden.
+## Kurz gesagt
 
-## Worum es mir hier geht
+Gesundheit ist für mich ein Bereich, in dem globale Ungleichheit besonders sichtbar wird. Deshalb schaue ich bei der WHO vor allem darauf, wie ernst Zugang, Forschung und internationale Verantwortung genommen werden.
 
-Mich interessieren Fragen von Versorgung, offener Forschung, Krisenreaktion und gerechter Verteilung. Gerade in der Gesundheitspolitik sieht man schnell, ob internationale Zusammenarbeit wirklich dem Menschen dient oder ob Interessen und Privilegien den Ton angeben.
-
-## Was hier relevant bleibt
+## Im Fokus
 
 - gerechter Zugang zu Gesundheit und Wissen
 - Forschung mit öffentlichem Nutzen statt Abschottung
 - klare Verantwortung in globalen Gesundheitsfragen
+
+## Warum die Seite so kurz bleibt
+
+Die kompakte Form soll helfen, den Kern des Themas ohne Umwege zu erfassen.
 
 ---
 

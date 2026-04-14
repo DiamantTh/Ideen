@@ -8,17 +8,19 @@ description: Persönliche Gedanken zu Kinderrechten, Schutz und gesellschaftlich
 
 # UN-KRK – Kinderrechtskonvention
 
-Kinderrechte zeigen oft sehr klar, wie ernst eine Gesellschaft ihre eigenen Werte wirklich nimmt. In diesem Bereich will ich nur die Punkte festhalten, bei denen Schutz, Förderung und Würde konkret werden oder eben spürbar versagen.
+## Kurz gesagt
 
-## Worum es mir hier geht
+Kinderrechte zeigen sehr deutlich, wie ernst eine Gesellschaft Schutz, Förderung und Zukunft wirklich meint. Ich halte hier nur die Punkte fest, an denen Verantwortung konkret wird oder spürbar versagt.
 
-Mich beschäftigt, wie Kinder in Schule, Familie, Medizin, Krisen und staatlichen Verfahren behandelt werden. Gerade bei ihnen fällt besonders auf, ob Systeme Verantwortung tragen oder ob sie Schwächere vor allem verwalten.
+## Im Fokus
 
-## Was hier relevant bleibt
-
-- Schutz vor Überforderung, Instrumentalisierung und Härte
+- Schutz vor Härte, Überforderung und Instrumentalisierung
 - echte Förderung statt bloßer Formalität
-- Kinderrechte als Zukunftsmaßstab, nicht als Nebenthema
+- Kinderrechte als Zukunftsmaßstab
+
+## Warum die Seite so kurz bleibt
+
+Die kurze Struktur hilft dabei, die Relevanz des Themas schon beim ersten Überfliegen zu erkennen.
 
 ---
 

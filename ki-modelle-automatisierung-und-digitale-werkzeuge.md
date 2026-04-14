@@ -8,17 +8,19 @@ description: Persönliche Einschätzungen zu KI, Toolchains und sinnvoller Autom
 
 # KI-Modelle, Automatisierung und Digitale Werkzeuge
 
-Hier halte ich fest, welche digitalen Werkzeuge mir sinnvoll erscheinen und wo ich ihnen misstraue. Mich interessiert KI nicht als Hype, sondern als Werkzeug, das nur dann wirklich gut ist, wenn es verständlich, kontrollierbar und im Alltag nützlich bleibt.
+## Kurz gesagt
 
-## Worum es mir hier geht
+Hier halte ich fest, welche digitalen Werkzeuge für mich sinnvoll wirken und wo ich bewusst skeptisch bleibe. KI ist für mich kein Selbstzweck, sondern nur dann gut, wenn sie nachvollziehbar, kontrollierbar und praktisch hilfreich bleibt.
 
-Ich möchte unterscheiden zwischen echter Entlastung und neuer Abhängigkeit. Deshalb schaue ich bei Modellen, Automatisierung und Plattformen immer darauf, ob sie Menschen Handlungsspielraum geben oder ihnen nur eine weitere Blackbox vorsetzen.
+## Im Fokus
 
-## Was hier relevant bleibt
-
-- klare praktische Nutzung statt Technik-Show
+- echte Entlastung statt neuer Blackboxen
 - lokale Kontrolle, Transparenz und Ausweichmöglichkeiten
 - Automatisierung, die fairer macht statt kälter
+
+## Warum die Seite so kurz bleibt
+
+Die Struktur bleibt absichtlich knapp, damit man die Haltung hinter dem Bereich sofort erfassen kann.
 
 ---
 

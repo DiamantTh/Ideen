@@ -8,17 +8,19 @@ description: Persönliche Überlegungen zu Staatlichkeit, Verantwortung und poli
 
 # Staat, Novara, Politik und Ordnung
 
-In diesem Bereich sammle ich politische Grundfragen, die für Novara und darüber hinaus wichtig sind. Mich beschäftigt hier vor allem, wie Staatlichkeit aussehen müsste, wenn Verantwortung, Transparenz und Schutz nicht nur behauptet, sondern konsequent umgesetzt würden.
+## Kurz gesagt
 
-## Worum es mir hier geht
+In diesem Bereich sammle ich politische Grundfragen, die für Novara und darüber hinaus wichtig sind. Mich beschäftigt, wie Staatlichkeit aussehen müsste, wenn Verantwortung, Transparenz und Schutz wirklich ernst genommen würden.
 
-Ich will politische Ordnung nicht als abstraktes Theoriefeld behandeln, sondern als etwas, das den Alltag direkt formt. Deshalb schaue ich auf Machtbegrenzung, Diplomatie, Regierungskultur und technische Infrastruktur immer mit der Frage: Dient das den Menschen oder vor allem sich selbst?
-
-## Was hier relevant bleibt
+## Im Fokus
 
 - klare Verantwortung statt Zuständigkeitsflucht
 - politische Ordnung mit nachvollziehbaren Regeln
 - Technik und Verwaltung als Teil der Staatsfrage
+
+## Warum die Seite so kurz bleibt
+
+Die Seite ist bewusst klar gegliedert, damit der politische Kern sofort sichtbar bleibt.
 
 ---
 

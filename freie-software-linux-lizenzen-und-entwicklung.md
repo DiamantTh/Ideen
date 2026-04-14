@@ -8,17 +8,19 @@ description: Gedanken zu offener Software, Nutzerfreiheit und fairer Entwicklung
 
 # Freie Software, Linux, Lizenzen und Entwicklung
 
-Hier geht es um Technik, aber nicht nur technisch. Freie Software interessiert mich vor allem dort, wo sie Menschen unabhängiger macht, Projekte fairer organisiert und Kontrolle über die eigene Umgebung zurückgibt.
+## Kurz gesagt
 
-## Worum es mir hier geht
+Freie Software interessiert mich dort am meisten, wo sie Menschen unabhängiger macht. Linux, Lizenzen und offene Standards sind für mich nicht nur Technikfragen, sondern Fragen nach Kontrolle, Fairness und Selbstbestimmung.
 
-Ich möchte festhalten, welche Rolle Linux, offene Standards, Lizenzen und Community-Kultur für echte digitale Selbstbestimmung spielen. Mich interessiert weniger Ideologie als die Frage, was im Alltag tragfähig, offen und respektvoll funktioniert.
+## Im Fokus
 
-## Was hier relevant bleibt
+- praktische Freiheit statt bloßer Ideologie
+- offene Standards und echte Exit-Möglichkeiten
+- faire und tragfähige Projektkultur
 
-- praktische Freiheit statt bloßer Symbolik
-- faire Projektkultur und nachhaltige Zusammenarbeit
-- offene Standards, Exit-Möglichkeiten und nachvollziehbare Technik
+## Warum die Seite so kurz bleibt
+
+Deshalb bleibt der Bereich bewusst auf die Punkte konzentriert, die im Alltag wirklich einen Unterschied machen.
 
 ---
 

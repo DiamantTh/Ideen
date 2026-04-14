@@ -8,17 +8,19 @@ description: Persönliche Notizen zu Plattformen, Reichweite und kreativer Arbei
 
 # Medien, Musik, Creator und Streaming
 
-In diesem Bereich geht es um die Frage, wie kreative Arbeit heute sichtbar wird, wem Plattformen nützen und wo Reichweite zur Abhängigkeit wird. Ich will hier nicht jeden Trend kommentieren, sondern nur die Punkte festhalten, die für Fairness und kreative Selbstbestimmung wirklich wichtig sind.
+## Kurz gesagt
 
-## Worum es mir hier geht
+In diesem Bereich geht es um kreative Arbeit und die Plattformen, von denen sie heute abhängt. Mich interessiert, wem Reichweite nützt, wo Verwertung unfair wird und wie viel Kontrolle Kreative wirklich noch haben.
 
-Mich interessieren die Bedingungen, unter denen Musik, Videos und andere Inhalte entstehen, verbreitet und verwertet werden. Gerade an Creator-Plattformen sieht man oft sehr deutlich, wie ungleich Macht, Sichtbarkeit und Einkommen verteilt sind.
+## Im Fokus
 
-## Was hier relevant bleibt
-
-- faire Bedingungen für Upload, Verwertung und Auffindbarkeit
-- nachvollziehbare Plattformregeln statt stiller Eingriffe
+- faire Bedingungen für Upload, Sichtbarkeit und Verwertung
+- nachvollziehbare Plattformregeln
 - Schutz kreativer Arbeit ohne künstliche Abschottung
+
+## Warum die Seite so kurz bleibt
+
+So bleibt die Seite übersichtlich und verliert sich nicht in Mediengerede ohne klare Aussage.
 
 ---
 

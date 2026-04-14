@@ -8,17 +8,19 @@ description: Persönliche Gedanken zu Marktlogik, Verträgen und dem Alltag von 
 
 # Wirtschaft, Verbraucher, Markt und Alltag
 
-Hier geht es um Wirtschaft nicht aus der Perspektive schöner Modelle, sondern aus Sicht des Alltags. Mich interessieren die Stellen, an denen Verträge, Preise, Plattformen und Märkte für Menschen funktionieren oder sie still benachteiligen.
+## Kurz gesagt
 
-## Worum es mir hier geht
+Hier geht es um Wirtschaft aus Sicht des Alltags statt aus Sicht schöner Modelle. Mich interessieren die Stellen, an denen Preise, Verträge und Marktlogiken für Menschen funktionieren oder sie still benachteiligen.
 
-Ich will festhalten, wie sehr Marktlogik vom Blickwinkel abhängt. Was für Unternehmen effizient aussieht, ist für Verbraucher oft unverständlich, teuer oder unfair. Genau diese Spannung ist hier der Kern.
-
-## Was hier relevant bleibt
+## Im Fokus
 
 - Verträge, Preise und Pflichten mit realen Alltagsfolgen
 - faire Marktbeziehungen statt einseitiger Bequemlichkeit
-- Verbraucherperspektive als Korrektiv gegen reine Systemlogik
+- die Verbraucherperspektive als notwendiges Korrektiv
+
+## Warum die Seite so kurz bleibt
+
+Damit ist die Seite beim Lesen klarer sortiert und verliert sich nicht in theoretischem Marktsprech.
 
 ---
 

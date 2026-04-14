@@ -8,17 +8,19 @@ description: Persönliche Gedanken zu Games, Plattformen, Communities und Fankul
 
 # Spiele, Plattformen, Gaming-Kultur und Fandom
 
-Hier geht es um Spiele nicht nur als Produkte, sondern als soziale Räume. Mich interessiert, wie Plattformen, Communities und Marken das Spielerlebnis prägen und wo aus Begeisterung schnell Ausnutzung, Frust oder künstliche Knappheit wird.
+## Kurz gesagt
 
-## Worum es mir hier geht
+Hier betrachte ich Spiele nicht nur als Produkte, sondern als soziale Räume. Mich interessiert, wie Plattformen, Marken und Community-Dynamiken das Spielerlebnis verbessern oder verschlechtern.
 
-Ich möchte festhalten, welche Dynamiken in Gaming-Kulturen wirklich wichtig sind: Fairness, Umgang mit Spielern, Monetarisierung, Community-Reaktionen und die Frage, wie viel Respekt ein Spiel seinen Fans eigentlich entgegenbringt.
-
-## Was hier relevant bleibt
+## Im Fokus
 
 - faire Plattform- und Marktbedingungen
 - gesunde Community-Dynamiken statt toxischer Eskalation
 - Spiele, die Spieler ernst nehmen statt sie nur zu binden
+
+## Warum die Seite so kurz bleibt
+
+So wirkt die Seite geordneter und macht schnell klar, welche Fragen in diesem Bereich zählen.
 
 ---
 
