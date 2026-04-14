@@ -71,12 +71,12 @@ Level 100 steht für Selbsterkenntnis: zu wissen, warum man lebt. Der Kochs Weg 
 ### Stephanie Fuhrmann als Symbolfigur eines größeren Konflikts
 Im Verlauf des Themenblocks zeichnet sich ein differenziertes Bild von Stephanie Fuhrmann ab. Im Material wird deutlich in ihr keine bloß überzogene oder willkürlich eskalierende Person, sondern eine Kämpferin, die aus seiner Sicht auf vielen Ebenen unbequem ist, gerade weil sie nicht zur Befriedung, sondern zur Konfrontation mit strukturellem Unrecht neigt. Das macht sie für ihn anschlussfähig. Er benennt ausdrücklich, dass er harte Inklusion und konsequente Durchsetzung von Rechten selbst als sinnvoll ansieht und deshalb ihre Schärfe nicht primär als Problem liest.
 
-Zugleich wird deutlich, dass Stephanie im Chat nicht romantisiert wird. Die Analyse ihrer Kommentare zeigt, dass sie andere Betroffene oder Kommentierende oft schnell moralisch einordnet, abgrenzt oder als Teil des Problems liest. Diese Spannung bleibt im Gespräch erhalten: Einerseits wird sie als wichtige, unbequeme Stimme verstanden, andererseits wird sichtbar, dass ihre Kommunikationsform andere potenzielle Verbündete ausgrenzt oder verengt. Im Material akzeptiert diese Härte jedoch eher als Begleiterscheinung einer grundlegenden Auseinandersetzung denn als entwertenden Makel.
+Zugleich wird deutlich, dass Stephanie im Chat nicht romantisiert wird. Die Analyse ihrer Kommentare zeigt, dass sie andere Betroffene oder Kommentierende oft schnell moralisch einordnet, abgrenzt oder als Teil des Problems liest. Diese Spannung bleibt in den vorliegenden Inhalten erhalten: Einerseits wird sie als wichtige, unbequeme Stimme verstanden, andererseits wird sichtbar, dass ihre Kommunikationsform andere potenzielle Verbündete ausgrenzt oder verengt. Im Material akzeptiert diese Härte jedoch eher als Begleiterscheinung einer grundlegenden Auseinandersetzung denn als entwertenden Makel.
 
 Wichtig ist dabei, dass die zugrunde liegende Perspektive den Kampf um BRK-Rechte nicht als freiwillige Aktivismus-Option behandelt. Seine Haltung ist erkennbar normativ aufgeladen: Wenn Rechte bestehen, dann ist ihre entschlossene Verteidigung für ihn eher selbstverständlich als außergewöhnlich. Daraus folgt auch sein Unverständnis gegenüber einer zurückhaltenden, beschwichtigenden oder ausschließlich pragmatischen Haltung. Nicht zu kämpfen erscheint aus seiner Perspektive schwer nachvollziehbar, fast schon im Widerspruch zu dem, was aus der BRK und dem Inklusionsgedanken folgen müsste.
 
 ### Ausgangspunkt: Bild und erste Beobachtung
-- Ich habe ein Bild geteilt, auf dem eine „Korra“ dargestellt ist, die sich sehr geduldig verhält (Support-Korra).
+- Ein Bild zeigt eine „Korra“, die sich sehr geduldig verhält (Support-Korra).
 - Im Gegensatz dazu ist die Korra aus der Serie Die Legende von Korra eher impulsiv, ungeduldig und emotional.
 - Dieser Kontrast war der Auslöser für unsere Überlegungen: Wie unterschiedlich wirken diese beiden Darstellungen von „Korra“?
 
@@ -287,7 +287,7 @@ Persönliche Sicherheitsarchitektur: Auto‑Exit, Geofencing, Vertrauensanker, m
 
 ### ICC als Hebel
 - Internationale Haftbefehle (z. B. gegen Putin) erzwingen ein Dilemma: persönlich erscheinen (Festnahmerisiko), Delegation schicken (indirektes Eingeständnis), oder boykottieren (Isolationssignal).
-- Deine Bedingung: „Ich agiere nur, wo die ICC‑Kooperation schriftlich garantiert ist; andernfalls keine Kooperation.“
+- Bedingung: „Kooperation nur, wo die ICC‑Kooperation schriftlich garantiert ist; andernfalls keine Kooperation.“
 - Klauseln (copy‑ready im Chat entwickelt): ICC‑Compliance, Anti‑Entführungs‑Klausel, No‑Military‑Use, Multisignatur‑Freigabe, Transparenzportal.
 
 ### Verhandlungsprozess (Stufen)
@@ -299,7 +299,7 @@ Schieds‑/Haftungsrahmen (Den Haag).
 
 ### Entführungsszenarien & Gegenwehr
 - Realpolitik: Geheimdienste könnten versucht sein, dich zu entführen/kooptieren.
-- Deine Antwort:
+- Antwort:
 - Transparenz-by-Design (Public Ledger, Live‑Streams, unabhängige Beobachter),
 - Auto‑Exit/Teleport‑Failsafes,
 - Dezentralisierte Tranchierung (kein Single‑Point‑of‑Coercion),
@@ -310,7 +310,7 @@ Schieds‑/Haftungsrahmen (Den Haag).
 - Du hältst harte Eingriffe (jenseits von Recht & Sanktionen) nur für wiederholte, nachweisliche Provokationen bereit, mit Ethik‑Freigabe (3‑er‑Gremium) und proportionalen Zielen (Befreiung/Blockade, nie Tötung).
 
 ### Vergleichsfigur „Takuto“
-- Extrembeispiel exekutiver Macht („ein Wort tötet“) dient als negativer Spiegel: Du definierst dich ausdrücklich als Antithese – heilend, schützend, rechtsgebunden. Daraus folgt dein Governance‑Ethos.
+- Extrembeispiel exekutiver Macht („ein Wort tötet“) dient als negativer Spiegel: Das definiert eine ausdrückliche Antithese – heilend, schützend, rechtsgebunden. Daraus folgt ein klares Governance‑Ethos.
 
 ### Leben am Rand
 - Standortwahl: Häuschen nahe Dorf/Stadt, aber nicht zentral; Selbstversorgung (Garten, Jagen), Verkauf über Gilden (Aufträge, Ränge, Regeln).

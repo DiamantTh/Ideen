@@ -19,7 +19,7 @@ Einordnung: Dieser Abschnitt bündelt die wiederkehrenden Linien des Themas und 
 - Realer mechanischer Effekt im Beispiel: Krönchen zeigt „Angelegt: +7 Rüstung“ (Attribut-Modifier). Brot hat mechanisch keinen Effekt.
 - Diskussion: „Laura“ könnte ein Easter Egg (Person/Bestie) sein – keine belastbare IRL-Aussage.
 
-### Zielbild (deine Vision)
+### Zielbild
 Aus den Memes echte, sinnvolle Verzauberungen machen, die:
 - thematisch passen, servertauglich sind und mehrstufig skalieren (I–X),
 - Teamplay fördern (Auren, Duo-Boni), ohne PvP aus dem Gleichgewicht zu bringen,
@@ -80,7 +80,7 @@ Aus den Memes echte, sinnvolle Verzauberungen machen, die:
 
 ### Erwerb und Nutzung von besonderen Items
 - Du hast dir im Auktionshaus auf Opsucht das Sommerschild gegönnt, welches durch extrem starke Verzauberungen auffällt: Knockback X, Mending und Unbreaking VI.
-- Dein Ziel war es, ein Item mit besseren Effekten zu haben, das im Spiel einen Vorteil bringt und gleichzeitig besonders wirkt.
+- Ziel war es, ein Item mit besseren Effekten zu haben, das im Spiel einen Vorteil bringt und gleichzeitig besonders wirkt.
 - Einschätzung: Das Schild ist fast unzerstörbar, heilt sich selbst und wirft Gegner mit unglaublicher Wucht zurück.
 - Nutzung: Du möchtest es aktiv einsetzen, um mehr Spaß im PvP und PvE zu haben.
 
@@ -132,10 +132,10 @@ Anhand der Screenshots wurde deutlich, wie weit seine Jobs fortgeschritten sind:
 - Builder (Level 8) – 0,08 $/Aktion, kaum lohnenswert, dient eher ästhetischen Zwecken.
 - Farmer (Level 2) und Fischer (Level 1) – existieren eher am Rand seines Systems; werden selten aktiv genutzt.
 
-Diese klare Hierarchie verdeutlicht Thomas’ strukturierten Ansatz: Er priorisiert Tätigkeiten, die sowohl spielmechanisch als auch wirtschaftlich nachhaltig sind.
+Diese klare Hierarchie zeigt einen strukturierten Ansatz: Priorisiert werden Tätigkeiten, die sowohl spielmechanisch als auch wirtschaftlich nachhaltig sind.
 
 ### Interpretation – Effizienzdenken und Routine
-Die Gespräche zeigen ein starkes Bewusstsein für Effizienz, Materialkreisläufe und Jobprogression. Thomas verbindet praktische Routinen (z. B. Lagerführung, Vorratsaufbau) mit spielmechanischer Optimierung. Auch Humor spielt hinein – etwa seine ironische Bemerkung, dass er „Sand hortet wie andere Klopapier“, was gleichzeitig seine Sammelleidenschaft und sein Verständnis für Ressourcenwirtschaft verdeutlicht.
+Die vorliegenden Beobachtungen zeigen ein starkes Bewusstsein für Effizienz, Materialkreisläufe und Jobprogression. Praktische Routinen (z. B. Lagerführung, Vorratsaufbau) werden mit spielmechanischer Optimierung verbunden. Auch Humor spielt hinein – etwa die ironische Bemerkung, dass man „Sand hortet wie andere Klopapier“.
 
 Diese Haltung steht für seine generelle Spielphilosophie: langfristige Planung, systematisches Vorgehen und eine klare Linie zwischen Spaß, Ordnung und Fortschritt.
 
@@ -167,7 +167,7 @@ Sein Entschluss: Plots und wertvolle Items zu verkaufen und mit dem Spiel aufzuh
 - High-End PvP/PvE: Schicksalssense, OP Schwert (+10 Herzen/Rüstung).
 - Sammlerwert: Manche Items fehlen in /items oder im Wiki, werden aber noch gehandelt → selten und wertvoll für Langzeitspieler.
 
-### Deine Pakete
+### Pakete
 - Sandkastenschaufel (Eff X, Haltb VIII, Mending) 2× aus Strand‑Promo.
 - Gelbe Shulker als Event‑Pakete („Strandpaket“, „Gräber‑/Miner‑Rucksack“, „Bienen Paket“, „Licht & Leucht Paket“).
 - Insgesamt 6 gelbe Shulker → 10 368 Items = 162 Stacks = 3 Doppelkisten (DCH) pro Run.

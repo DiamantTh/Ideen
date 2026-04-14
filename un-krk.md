@@ -37,7 +37,7 @@ Ebenso interessant ist die Härte der moralischen Reaktion auf Missachtung. Wo K
 
 ## Moegliche Umsetzungen
 
-Diese Datei eignet sich in ChatGPT-Projekten besonders als normativer Referenztext für Themen wie Kinderschutz, Jugendstrafrecht, medizinische Ethik, Inklusion, Familienpolitik und internationale Kinderrechte. Sie kann helfen, spätere Ideen an einer klaren Grundfrage auszurichten: Dient eine Maßnahme dem Kind als eigenständiger Person, oder behandelt sie es als Objekt anderer Interessen?
+Diese Seite eignet sich besonders als normativer Referenztext für Themen wie Kinderschutz, Jugendstrafrecht, medizinische Ethik, Inklusion, Familienpolitik und internationale Kinderrechte. Sie kann helfen, spätere Ideen an einer klaren Grundfrage auszurichten: Dient eine Maßnahme dem Kind als eigenständiger Person, oder behandelt sie es als Objekt anderer Interessen?
 
 Praktisch anschlussfähig sind aus dem Bestand vor allem Leitlinien für strengere Schutzstandards, frühere Interventionspflichten, klarere Grenzziehungen in Medizin und Forschung, schärfere Kritik an symbolischer Strafpolitik sowie eine stärkere Verknüpfung von Kinderrechten mit Inklusions- und Teilhabefragen.
 

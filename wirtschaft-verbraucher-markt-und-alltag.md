@@ -37,13 +37,13 @@ Ebenso interessant ist, dass der Bestand oft Marktlogik und Moral zugleich denkt
 
 ## Moegliche Umsetzungen
 
-Für ChatGPT-Projekte eignet sich diese Datei gut als Referenztext für Verbraucherpolitik, Marktkommunikation, digitale Infrastrukturmärkte, Hosting- und Plattformkritik, Kulanz- und Beschwerdestrategien, Versicherungs- und Bankthemen sowie regulatorische Reformideen. Sie kann sowohl für konkrete Einzelfallanalysen als auch für größere Positionspapiere genutzt werden.
+Als Referenztext eignet sich diese Seite gut als Referenztext für Verbraucherpolitik, Marktkommunikation, digitale Infrastrukturmärkte, Hosting- und Plattformkritik, Kulanz- und Beschwerdestrategien, Versicherungs- und Bankthemen sowie regulatorische Reformideen. Sie kann sowohl für konkrete Einzelfallanalysen als auch für größere Positionspapiere genutzt werden.
 
 Praktisch anschlussfähig sind aus dem Bestand vor allem Leitlinien für klarere Preis- und Produktkommunikation, bessere Beschwerdewege, öffentlich nachvollziehbare Leistungszusagen, mehr Transparenz bei Preisanpassungen, fairere Rückzahlungs- und Mahnlogiken, stärkere Aufsicht bei Pflicht- oder Vertrauensmärkten und eine bewusstere Verbindung von Verbraucherrecht und Infrastrukturpolitik.
 
 ## Zukunftsplanungen
 
-Später könnte die Datei in Teilbereiche getrennt werden, etwa Banken und Rückzahlung, Versicherungen und Pflichtmärkte, Hosting und Infrastrukturpreise, Spielökonomien und FOMO-Mechaniken oder Hardware- und Routermärkte. Für den aktuellen Stand ist jedoch die gemeinsame Fassung hilfreicher, weil sie zeigt, wie eng diese Felder in deinem Denken zusammengehören.
+Später könnte die Datei in Teilbereiche getrennt werden, etwa Banken und Rückzahlung, Versicherungen und Pflichtmärkte, Hosting und Infrastrukturpreise, Spielökonomien und FOMO-Mechaniken oder Hardware- und Routermärkte. Für den aktuellen Stand ist jedoch die gemeinsame Fassung hilfreicher, weil sie zeigt, wie eng diese Felder in den vorliegenden Überlegungen zusammengehören.
 
 Ebenfalls naheliegend wäre eine spätere Verdichtung zu einem eigenen Markt- und Verbraucherleitbild: mehr Verständlichkeit, weniger asymmetrische Härte, stärkere Rechenschaft für mächtige Akteure, ehrliche Preis- und Leistungsdarstellung und eine Regulierung, die nicht nur im Extremfall reagiert. Die dafür nötigen Grundlinien sind in dieser Datei bereits klar gebündelt.
 

@@ -37,7 +37,7 @@ Ebenso auffällig ist die Nähe zu Genf und zum internationalen Menschenrechtsra
 
 ## Moegliche Umsetzungen
 
-Für ChatGPT-Projekte ist diese Datei besonders nützlich, wenn es um globale Gesundheitsgerechtigkeit, offene Forschung, medizinische Gleichheit, Kritik an Sonderprivilegien oder die Verbindung von Gesundheit und Menschenrechten geht. Sie kann als konzeptioneller Unterbau dienen, wenn spätere Texte globale Regeln oder alternative Gesundheitsordnungen formulieren sollen.
+Als Referenztext ist diese Seite besonders nützlich, wenn es um globale Gesundheitsgerechtigkeit, offene Forschung, medizinische Gleichheit, Kritik an Sonderprivilegien oder die Verbindung von Gesundheit und Menschenrechten geht. Sie kann als konzeptioneller Unterbau dienen, wenn spätere Texte globale Regeln oder alternative Gesundheitsordnungen formulieren sollen.
 
 Anschlussfähig sind aus dem Bestand insbesondere Modelle für offenere Forschung, stärkere internationale Verifikation, klarere Gleichheitsprinzipien im Gesundheitswesen und eine deutlichere politische Rahmung von Gesundheit als Gemeingut. Die WHO-Datei liefert dafür den normativen Rahmen, ohne sich in organisatorischen Details zu verlieren.
 

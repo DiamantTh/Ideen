@@ -11,7 +11,7 @@ Diese Datei bündelt die im Bestand verteilten Überlegungen zu KI-Modellen, Aut
 
 ## Einordnung und Kontext
 
-Die zugehörigen Materialien reichen von Modellvergleichen, lokalen LLM-Setups, Continue-/Ollama-/LM-Studio-Ideen und ChatGPT-Nutzung über Audio- und Eingabefragen, digitale Postfächer, Justiz- und Verwaltungskommunikation, Toolketten für Produktivität, Plattform- und Bewertungslogiken bis hin zu sehr grundsätzlichen Überlegungen über Transparenz, staatliche Macht, Sicherheitsnarrative und die Rolle großer Tech-Anbieter. Diese Bandbreite ist nur scheinbar unübersichtlich. Tatsächlich kreist der Bestand immer wieder um dieselbe Kernfrage: Wie lässt sich digitale Komplexität so ordnen, dass Menschen mehr Handlungsspielraum und weniger verdeckte Abhängigkeit erhalten?
+Die zugehörigen Materialien reichen von Modellvergleichen, lokalen LLM-Setups, Continue-/Ollama-/LM-Studio-Ideen und KI-Nutzung über Audio- und Eingabefragen, digitale Postfächer, Justiz- und Verwaltungskommunikation, Toolketten für Produktivität, Plattform- und Bewertungslogiken bis hin zu sehr grundsätzlichen Überlegungen über Transparenz, staatliche Macht, Sicherheitsnarrative und die Rolle großer Tech-Anbieter. Diese Bandbreite ist nur scheinbar unübersichtlich. Tatsächlich kreist der Bestand immer wieder um dieselbe Kernfrage: Wie lässt sich digitale Komplexität so ordnen, dass Menschen mehr Handlungsspielraum und weniger verdeckte Abhängigkeit erhalten?
 
 Gerade KI taucht in diesem Rahmen nicht als magisches Lösungsversprechen auf. Sie ist im Material ein Werkzeugtyp unter vielen, allerdings einer mit besonders hoher Hebelwirkung. Deshalb wird KI nicht nur nach Leistungswerten, sondern nach Integration, Offenheit, Erklärbarkeit, Kosten, lokalen Alternativen und sozialer Wirkung beurteilt. Dasselbe gilt für Automatisierung allgemein: Sie soll nicht nur Prozesse beschleunigen, sondern gerechter und realistischer machen.
 
@@ -37,7 +37,7 @@ Ebenso interessant ist die wiederkehrende Verbindung aus individueller Fairness 
 
 ## Moegliche Umsetzungen
 
-Für ChatGPT-Projekte eignet sich diese Datei gut als Grundlagenpapier für Modellwahl, lokale KI-Nutzung, digitale Arbeitsumgebungen, Prozessautomatisierung, sichere Zustellung, Bewertungssysteme, Plattformkritik und Infrastrukturreformen. Sie ist besonders dann hilfreich, wenn Ideen nicht bloß technisch beschrieben, sondern an Kontroll-, Fairness- und Rechenschaftsfragen rückgebunden werden sollen.
+Als Referenztext eignet sich diese Seite gut als Grundlagenpapier für Modellwahl, lokale KI-Nutzung, digitale Arbeitsumgebungen, Prozessautomatisierung, sichere Zustellung, Bewertungssysteme, Plattformkritik und Infrastrukturreformen. Sie ist besonders dann hilfreich, wenn Ideen nicht bloß technisch beschrieben, sondern an Kontroll-, Fairness- und Rechenschaftsfragen rückgebunden werden sollen.
 
 Aus dem Bestand lassen sich praktisch anschlussfähige Ansätze ableiten: lokale oder hybride Modellnutzung, klar dokumentierte Toolchains, digitale Postfächer mit echter Wahlfreiheit, nachvollziehbare Beschwerde- und Wiederherstellungsprozesse, bessere Integrationsstandards für Audio und Eingabe, bewusstere Plattformwahl, sowie Automatisierungsmodelle, die nicht nur Aufwand senken, sondern reale Folgekosten und Asymmetrien mitdenken.
 

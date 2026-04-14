@@ -37,13 +37,13 @@ Ebenso bemerkenswert ist die Skepsis gegenüber bloßer Symbolpolitik in FOSS- u
 
 ## Moegliche Umsetzungen
 
-Für ChatGPT-Projekte ist diese Datei besonders nützlich als Grundlagenpapier für freie Software, Linux-Strategien, Community-Governance, Selbsthosting, Lizenzpolitik und digitale Selbstbestimmung. Sie eignet sich sowohl für technische Entwürfe als auch für politische oder ethische Positionspapiere. Wer aus dem Bestand später konkrete Projekte, Manifeste, Lizenztexte oder Systemrichtlinien ableiten will, findet hier die wichtigsten Linien bereits zusammengeführt.
+Als Referenztext ist diese Seite besonders nützlich als Grundlagenpapier für freie Software, Linux-Strategien, Community-Governance, Selbsthosting, Lizenzpolitik und digitale Selbstbestimmung. Sie eignet sich sowohl für technische Entwürfe als auch für politische oder ethische Positionspapiere. Wer aus dem Bestand später konkrete Projekte, Manifeste, Lizenztexte oder Systemrichtlinien ableiten will, findet hier die wichtigsten Linien bereits zusammengeführt.
 
 Praktisch anschlussfähig sind insbesondere Projekte zu sauberer Paketierung, nachvollziehbarer Migrationslogik, FIDO2- und WebAuthn-first-Systemen, Community-Regeln mit klarer Fehlerkultur, faireren Lizenzmodellen, selbsthostbaren Diensten und einer bewusst offen gehaltenen Infrastruktur. Ebenso kann die Datei als Referenz dienen, wenn künftige Entscheidungen darauf geprüft werden sollen, ob sie Freiheit erweitern oder bloß anders benennen.
 
 ## Zukunftsplanungen
 
-Später könnte diese Datei noch in Teilbereiche ausgebaut werden, etwa Linux-Betrieb und Distributionen, Paketierung und Release-Engineering, Lizenzethik und FOSS-Politik, Selbsthosting und Infrastruktur oder Community-Kultur und Governance. Für den jetzigen Projektstand ist die verdichtete Gesamtform sinnvoller, weil sie zeigt, wie eng diese Felder in deinem Denken verbunden sind.
+Später könnte diese Datei noch in Teilbereiche ausgebaut werden, etwa Linux-Betrieb und Distributionen, Paketierung und Release-Engineering, Lizenzethik und FOSS-Politik, Selbsthosting und Infrastruktur oder Community-Kultur und Governance. Für den jetzigen Projektstand ist die verdichtete Gesamtform sinnvoller, weil sie zeigt, wie eng diese Felder in den vorliegenden Überlegungen verbunden sind.
 
 Ebenso denkbar wäre eine spätere Ausarbeitung eigener Entwicklungsgrundsätze, etwa für Novara-nahe Softwareprojekte: offene Formate, saubere Exit-Wege, dokumentierte Build-Pfade, klare Lizenzwahl, keine missbrauchte Sicherheitsarchitektur, starke Community-Transparenz und eine realistische Maintainer-Kultur. Die Substanz dafür ist im Material bereits klar vorhanden.
 
