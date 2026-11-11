@@ -6,7 +6,7 @@ description: Persönliche Themenübersicht zu Technik, Gesellschaft, Kultur und 
 
 # Ideen
 
-Das hier ist eine bewusst reduzierte Übersicht über die Themen, die mich wirklich beschäftigen. Die Seiten sollen persönlicher klingen, schneller erfassbar sein und schon beim Überfliegen zeigen, worum es jeweils geht.
+Diese Startseite führt zu meinen persönlichen Artikeln über Technik, Inklusion, Gesellschaft und politische Ideen. Die einzelnen Themenseiten enthalten meine Positionen und Begründungen direkt als lesbare Texte.
 
 ## Inklusion, offene Standards und verbindliche Rechte
 
@@ -54,9 +54,9 @@ Die UN-Behindertenrechtskonvention ist dafür der verbindliche menschenrechtlich
 - [Medien, Musik, Creator und Streaming](medien-musik-creator-und-streaming.md) – Plattformen, Verwertung und kreative Selbstbestimmung.
 - [Spiele, Plattformen, Gaming-Kultur und Fandom](spiele-plattformen-gaming-kultur-und-fandom.md) – Games, Communities und der Umgang mit Spielern.
 
-## Schreibstil für die nächsten Texte
+## Aufbau der Themenseiten
 
-Künftig soll jede Seite mit einer kurzen Kernaussage starten, danach wenige klare Fokuspunkte zeigen und keine unnötigen Nebenthemen mehr mitschleppen. So wirkt das Ganze geordneter, menschlicher und direkter.
+Die Startseite bietet den Überblick. Auf den verlinkten Themenseiten stehen die eigentlichen Artikel mit Hintergründen, Forderungen und Querverbindungen. Meine Aussagen sollen als persönliche Positionen erkennbar bleiben; geltende Rechte und meine zusätzlichen Reformvorschläge werden unterschieden.
 
 ---
 

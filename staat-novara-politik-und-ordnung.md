@@ -1,26 +1,40 @@
 ---
 layout: default
 title: Staat, Novara, Politik und Ordnung
-description: Persönliche Überlegungen zu Staatlichkeit, Verantwortung und politischer Ordnung
+description: Meine Vorstellungen zu staatlicher Verantwortung, Kontrolle, Beteiligung und öffentlicher Infrastruktur
 ---
 
 [← Zurück zur Startseite](index.md)
 
 # Staat, Novara, Politik und Ordnung
 
-## Kurz gesagt
+## Wofür staatliche Ordnung da sein sollte
 
-In diesem Bereich sammle ich politische Grundfragen, die für Novara und darüber hinaus wichtig sind. Mich beschäftigt, wie Staatlichkeit aussehen müsste, wenn Verantwortung, Transparenz und Schutz wirklich ernst genommen würden.
+Für mich sind Regeln nur dann überzeugend, wenn sie nachvollziehbar begründet werden und im Alltag tatsächlich wirken. Eine Behörde sollte sich nicht hinter Zuständigkeiten verstecken können, während Menschen auf Entscheidungen warten, die ihr Leben unmittelbar betreffen.
 
-## Im Fokus
+Das bedeutet nicht, dass jede Entscheidung einfach ist. Aber Verantwortung muss sichtbar bleiben: Wer entscheidet, muss Gründe nennen, Fehler korrigieren und eine wirksame Überprüfung zulassen.
 
-- klare Verantwortung statt Zuständigkeitsflucht
-- politische Ordnung mit nachvollziehbaren Regeln
-- Technik und Verwaltung als Teil der Staatsfrage
+## Öffentliche Beschaffung als politische Verantwortung
 
-## Warum die Seite so kurz bleibt
+Wenn mit öffentlichen Mitteln gebaut oder Software eingekauft wird, werden damit oft Abhängigkeiten für viele Jahre geschaffen. Deshalb möchte ich, dass Barrierefreiheit, Sicherheit, Datenportabilität, Wartbarkeit und offene Schnittstellen frühzeitig Teil der Anforderungen werden.
 
-Die Seite ist bewusst klar gegliedert, damit der politische Kern sofort sichtbar bleibt.
+Wo davon abgewichen wird, sollte eine nachvollziehbare Begründung erforderlich sein. Ein niedriger Anschaffungspreis allein ist für mich kein ausreichender Maßstab, wenn später hohe Folgekosten oder neue Zugangshürden entstehen.
+
+## Öffentliche Normen und demokratische Kontrolle
+
+Wer Rechte oder Pflichten erfüllen muss, sollte die maßgeblichen Regeln kennen können. Deshalb fordere ich, dass verbindlich herangezogene technische Normen kostenfrei und barrierefrei einsehbar werden. Das würde auch die Mitwirkung von Menschen mit Behinderungen an Bau-, Verkehrs- und Technikstandards erleichtern.
+
+## Kontrolle statt bloßer Selbstdarstellung
+
+Unabhängige Beschwerdestellen, verständliche Entscheidungen, nachvollziehbare Fristen und veröffentlichte Fortschritte gehören für mich zu einer guten Verwaltung. Es soll nicht vom öffentlichen Druck oder von persönlichen Kontakten abhängen, ob ein ernstes Anliegen geprüft wird.
+
+Dabei müssen Sanktionen verhältnismäßig sein und sich an transparenten Regeln orientieren. Bloße Härte ohne faire Verfahren wäre ebenfalls ein Problem.
+
+## Beteiligung und Rechte
+
+Menschen, die von Entscheidungen betroffen sind, müssen von Beginn an mitwirken können. Die UN-BRK ist für mich ein wichtiger Maßstab für die Beteiligung von Menschen mit Behinderungen; Kinderrechte ergänzen ihn dort, wo Kinder und Jugendliche betroffen sind.
+
+Die Gedanken zu [Novara](novara-und-svz.md) sind mein Versuch, diese Grundsätze in einem alternativen politischen Modell konsequent zusammenzuführen.
 
 ---
 

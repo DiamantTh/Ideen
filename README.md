@@ -4,15 +4,17 @@ Persönlicher Thinktank – Ideen, Analysen und Zukunftsvisionen zu Technik, Ges
 
 ## Struktur
 
-- **`ideen/`** – Alle Ideen, Erklärungen und Konzepte (JSON, MD, Texte)
+- **`index.md`** – Einstieg und Navigation auf der Website.
+- **`*.md`** – eigenständig lesbare Artikel mit meinen Positionen, Argumenten und Querverweisen.
+- **`*.txt`** – ergänzendes Arbeits- und Archivmaterial; die Website verweist nicht als Ersatz für Artikeltexte darauf.
 
 ## Schreibprinzipien
 
 - Texte sollen klar als persönliche Gedanken erkennbar sein und nicht wie neutrale Maschinenzusammenfassungen klingen.
-- Jede Seite startet mit einer kurzen Kernaussage und danach wenigen klaren Fokuspunkten.
-- Jede Seite bekommt nur einen klaren Fokus; Nebenthemen und lose Abschweifungen bleiben draußen.
-- Wichtiger als Vollständigkeit sind Relevanz, Haltung und konkrete Aussage.
-- Kurze, direkte Formulierungen sind besser als aufgeblähte Einordnungen.
+- Jede Themenseite enthält einen eigenständigen, zusammenhängenden Artikel mit aussagekräftigen Abschnitten.
+- Verwandte Themen werden innerhalb der Artikel durch Links zu anderen Themenseiten verbunden.
+- Relevanz, persönliche Haltung, Begründung und konkrete Forderungen stehen im Mittelpunkt.
+- Die Texte dürfen ausführlich sein, wenn das zum Verstehen von Hintergründen und Zusammenhängen nötig ist.
 - Wenn ein Thema keinen echten Mehrwert für die Seite bringt, wird es gestrichen.
 
 ---
