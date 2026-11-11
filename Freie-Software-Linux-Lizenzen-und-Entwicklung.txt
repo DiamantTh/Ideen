@@ -105,3 +105,15 @@ Verdichtetes Gesamtbild
 Im Gesamtbild zeigt diese Datei, dass freie Software, Linux und Lizenzpolitik in deinem Material nicht als Spezialinteresse, sondern als Modellfrage digitaler Ordnung verstanden werden. Es geht um Kontrolle, Reparierbarkeit, faire Paketierung, nicht missbrauchte Sicherheitsmechanismen, belastbare Community-Kultur und eine Lizenzethik, die Offenheit nicht naiv an marktmächtigere Akteure verschenkt.
 
 Für ChatGPT-Projekte ist diese Fassung deshalb deutlich besser geeignet als die frühere Sammeldatei. Sie steht eigenständig, trägt ihren Kontext selbst und bündelt die wichtigsten Motive zu einem zusammenhängenden Referenztext für Softwarefreiheit, Linux-Praxis und digitale Souveränität.
+
+------------------------------------------------------------
+Ergänzende persönliche Positionen (November 2026)
+------------------------------------------------------------
+
+Barrierefreiheit, offene Normen und digitale Selbstbestimmung
+
+Ich möchte einen kostenfreien öffentlichen Zugang zu den vollständigen Normtexten, wenn ihre Inhalte als verbindliche Grundlage öffentlicher Pflichten dienen. Gerade bei DIN-, ISO- oder anderen technischen Regeln soll niemand zahlen müssen, nur um nachvollziehen zu können, welche Anforderungen gelten. Das ist meine politische Reformforderung und keine Aussage, dass heute alle Normen gemeinfrei sind.
+
+Offene Formate, dokumentierte Schnittstellen und Datenportabilität ermöglichen nicht nur mehr Wettbewerb, sondern auch technische Anpassungen für Menschen mit Behinderungen. Wenn eine Behörde oder Schule an einen Hersteller gebunden ist, kann das die Integration von Hilfsmitteln und die langfristige Verfügbarkeit gefährden. Öffentliche Beschaffung sollte deshalb Barrierefreiheit, offene Standards, Interoperabilität, Reparierbarkeit und Sicherheitsanforderungen transparent bewerten.
+
+FIDO2/WebAuthn und offene Technik passen für mich zusammen: Starke Sicherheit muss nicht mit geschlossenen Systemen oder einem Herstellerzwang erkauft werden.

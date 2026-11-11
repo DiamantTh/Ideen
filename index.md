@@ -8,6 +8,16 @@ description: Persönliche Themenübersicht zu Technik, Gesellschaft, Kultur und 
 
 Das hier ist eine bewusst reduzierte Übersicht über die Themen, die mich wirklich beschäftigen. Die Seiten sollen persönlicher klingen, schneller erfassbar sein und schon beim Überfliegen zeigen, worum es jeweils geht.
 
+## Inklusion, offene Standards und verbindliche Rechte
+
+**Barrierefreiheit, Selbstbestimmung und offene Technik gehören für mich zusammen.** Ich will nicht, dass Menschen ständig Sonderwege beantragen müssen, während öffentliche Stellen oder Anbieter ihre eigenen Systeme als ausreichend bezeichnen.
+
+Meine Reformziele sind **faire Entlohnung und vollwertige Arbeitnehmerrechte auch in WfbM**, starke Werkstatträte, inklusiver Unterricht mit geeigneten Hilfsmitteln und verlässlicher Assistenz, barrierefreier Verkehr, Bauen und digitale Dienste. Ich fordere außerdem unabhängige Kontrollen, nachvollziehbare Umsetzungsfristen und wirksame Beschwerdewege. **Öffentlich maßgebliche DIN-/ISO-Normen** sollten aus meiner Sicht ohne Bezahlschranke einsehbar sein. Diese Forderung nach kostenfreiem Normenzugang ist ein politisches Reformziel und nicht die pauschale heutige Rechtslage.
+
+Die UN-Behindertenrechtskonvention ist dafür der verbindliche menschenrechtliche Maßstab. Meine zusätzlichen Forderungen gehen teils über die aktuell ausdrücklich geregelten Pflichten hinaus.
+
+**Vertiefungen:** [Arbeit, Schule und Inklusion](gesellschaft-recht-inklusion-bildung-und-gesundheit.md) · [UN-BRK](un-brk.md) · [offene Technik und Standards](freie-software-linux-lizenzen-und-entwicklung.md) · [europäische Mindestregeln](eu-und-laenderbezuege.md) · [Novara](novara-und-svz.md).
+
 ## So ist das Archiv sortiert
 
 - **Technik und Infrastruktur** – Werkzeuge, offene Systeme und digitale Selbstbestimmung
